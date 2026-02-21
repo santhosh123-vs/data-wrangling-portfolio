@@ -1,0 +1,91 @@
+{
+  "project": "Log File Cleaner & Classifier",
+  "author": "Kethavath Saidamma",
+  "date": "February 2025",
+  "source_files": [
+    {
+      "name": "messy_server_logs.csv",
+      "format": "CSV",
+      "rows": 5250,
+      "columns": 10,
+      "size": "655 KB"
+    },
+    {
+      "name": "messy_api_logs.json",
+      "format": "JSON",
+      "rows": 1000,
+      "size": "330 KB"
+    }
+  ],
+  "output_files": [
+    "clean_server_logs.csv",
+    "clean_server_logs.json",
+    "clean_server_logs.parquet",
+    "clean_server_logs.xlsx"
+  ],
+  "cleaning_steps": [
+    {
+      "step": 1,
+      "description": "Removed duplicate rows",
+      "rows_before": 5250,
+      "rows_after": 5000,
+      "rows_affected": 250
+    },
+    {
+      "step": 2,
+      "description": "Standardized severity levels to Critical/High/Medium/Low",
+      "rows_before": 5000,
+      "rows_after": 5000,
+      "rows_affected": 4622
+    },
+    {
+      "step": 3,
+      "description": "Standardized environment names to production/staging/development",
+      "rows_before": 5000,
+      "rows_after": 5000,
+      "rows_affected": 4541
+    },
+    {
+      "step": 4,
+      "description": "Standardized all timestamps to datetime format",
+      "rows_before": 5000,
+      "rows_after": 5000,
+      "rows_affected": 5000
+    },
+    {
+      "step": 5,
+      "description": "Cleaned response_time_ms: removed negative, zero, and outlier values (>10000ms)",
+      "rows_before": 5000,
+      "rows_after": 5000,
+      "rows_affected": 2223
+    },
+    {
+      "step": 6,
+      "description": "Cleaned IP addresses: removed INVALID_IP and 0.0.0.0",
+      "rows_before": 5000,
+      "rows_after": 5000,
+      "rows_affected": 1998
+    },
+    {
+      "step": 7,
+      "description": "Standardized user IDs to USR-XXXX format, removed UNKNOWN and empty",
+      "rows_before": 5000,
+      "rows_after": 5000,
+      "rows_affected": 965
+    },
+    {
+      "step": 8,
+      "description": "Filled missing categorical values with defaults",
+      "rows_before": 5000,
+      "rows_after": 5000,
+      "rows_affected": 1470
+    }
+  ],
+  "final_stats": {
+    "original_rows": 5250,
+    "cleaned_rows": 5000,
+    "rows_removed": 250,
+    "columns": 10,
+    "remaining_nulls": 10752
+  }
+}
