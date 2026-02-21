@@ -1,91 +1,85 @@
 {
   "project": "Log File Cleaner & Classifier",
   "author": "Kethavath Saidamma",
-  "date": "February 2025",
-  "source_files": [
-    {
-      "name": "messy_server_logs.csv",
-      "format": "CSV",
-      "rows": 5250,
-      "columns": 10,
-      "size": "655 KB"
-    },
-    {
-      "name": "messy_api_logs.json",
-      "format": "JSON",
-      "rows": 1000,
-      "size": "330 KB"
-    }
-  ],
-  "output_files": [
-    "clean_server_logs.csv",
-    "clean_server_logs.json",
-    "clean_server_logs.parquet",
-    "clean_server_logs.xlsx"
-  ],
+  "date": "2026-02-21",
   "cleaning_steps": [
     {
       "step": 1,
       "description": "Removed duplicate rows",
       "rows_before": 5250,
       "rows_after": 5000,
-      "rows_affected": 250
+      "rows_affected": 250,
+      "reason": "Duplicate log entries would inflate error counts and skew statistical analysis. Keeping first occurrence only.",
+      "timestamp": "2026-02-21 06:51:57"
     },
     {
       "step": 2,
-      "description": "Standardized severity levels to Critical/High/Medium/Low",
+      "description": "Standardized severity levels (12 variations to 4 standard levels)",
       "rows_before": 5000,
       "rows_after": 5000,
-      "rows_affected": 4622
+      "rows_affected": 4622,
+      "reason": "Inconsistent severity labels prevent accurate grouping and priority analysis. P1/CRITICAL/Critical all mean the same thing.",
+      "timestamp": "2026-02-21 06:51:57"
     },
     {
       "step": 3,
-      "description": "Standardized environment names to production/staging/development",
+      "description": "Standardized environment names (9 variations to 3 standard names)",
       "rows_before": 5000,
       "rows_after": 5000,
-      "rows_affected": 4541
+      "rows_affected": 4541,
+      "reason": "Environment filtering is critical for isolating production issues from dev/staging. Inconsistent names prevent this analysis.",
+      "timestamp": "2026-02-21 06:51:57"
     },
     {
       "step": 4,
-      "description": "Standardized all timestamps to datetime format",
+      "description": "Standardized timestamps to datetime format",
       "rows_before": 5000,
       "rows_after": 5000,
-      "rows_affected": 5000
+      "rows_affected": 5000,
+      "reason": "Multiple timestamp formats prevent time-series analysis and sorting. Unified format enables trend detection.",
+      "timestamp": "2026-02-21 06:51:57"
     },
     {
       "step": 5,
-      "description": "Cleaned response_time_ms: removed negative, zero, and outlier values (>10000ms)",
+      "description": "Cleaned response_time_ms: removed values outside 1-10000ms range",
       "rows_before": 5000,
       "rows_after": 5000,
-      "rows_affected": 2223
+      "rows_affected": 2223,
+      "reason": "Negative values (-1) indicate logging errors. Zero values are impossible for real requests. Values >10000ms suggest timeouts, not actual response times.",
+      "timestamp": "2026-02-21 06:51:57"
     },
     {
       "step": 6,
-      "description": "Cleaned IP addresses: removed INVALID_IP and 0.0.0.0",
+      "description": "Cleaned IP addresses",
       "rows_before": 5000,
       "rows_after": 5000,
-      "rows_affected": 1998
+      "rows_affected": 1998,
+      "reason": "INVALID_IP is a system placeholder, not a real address. 0.0.0.0 is non-routable. Both would corrupt network analysis.",
+      "timestamp": "2026-02-21 06:51:57"
     },
     {
       "step": 7,
-      "description": "Standardized user IDs to USR-XXXX format, removed UNKNOWN and empty",
+      "description": "Standardized user IDs to USR-XXXX format",
       "rows_before": 5000,
       "rows_after": 5000,
-      "rows_affected": 965
+      "rows_affected": 965,
+      "reason": "Mixed ID formats prevent user-level analysis. UNKNOWN provides no useful information and is treated as missing.",
+      "timestamp": "2026-02-21 06:51:57"
     },
     {
       "step": 8,
-      "description": "Filled missing categorical values with defaults",
+      "description": "Filled missing categorical values",
       "rows_before": 5000,
       "rows_after": 5000,
-      "rows_affected": 1470
+      "rows_affected": 1470,
+      "reason": "Dropping rows with missing categories would lose valuable timing and error data. Filling with 'Unknown' preserves records while flagging incomplete data.",
+      "timestamp": "2026-02-21 06:51:57"
     }
   ],
   "final_stats": {
     "original_rows": 5250,
     "cleaned_rows": 5000,
     "rows_removed": 250,
-    "columns": 10,
     "remaining_nulls": 10752
   }
 }
