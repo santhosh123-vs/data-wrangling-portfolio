@@ -1,0 +1,24 @@
+{
+  "before": {
+    "total_rows": 5250,
+    "duplicate_rows": 250,
+    "missing_values": 7288,
+    "severity_variations": 12,
+    "environment_variations": 9,
+    "timestamp_formats": "4+ different formats"
+  },
+  "after": {
+    "total_rows": 5000,
+    "duplicate_rows": 0,
+    "missing_values": 10752,
+    "severity_variations": 5,
+    "environment_variations": 4,
+    "timestamp_formats": "1 unified ISO format"
+  },
+  "improvements": {
+    "duplicates_removed": 250,
+    "null_reduction_percentage": -47.53,
+    "severity_standardized": "12 variations -> 4 standard levels",
+    "environment_standardized": "9 variations -> 3 standard names"
+  }
+}

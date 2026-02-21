@@ -1,0 +1,21 @@
+log_id,timestamp,error_type,severity,module,environment,user_id,response_time_ms,message,ip_address
+4038,,Network Timeout,Medium,api-gateway,development,,,Error in module at line 63: File Not Found,192.168.92.207
+3549,2024-05-04 18:26:00,Network Timeout,High,api-gateway,development,,,Error in module at line 166: System Crash,10.0.210.255
+3828,2024-03-02 22:30:00,Network Timeout,Critical,api-gateway,staging,USR-2365,,Error in module at line 128: Network Timeout,
+1301,2024-01-25 04:26:00,Authentication Failure,Medium,unknown-module,production,USR-4806,,Error in module at line 385: Performance Degradation,
+1486,2024-11-20 21:45:00,Authentication Failure,High,auth-service,production,USR-6591,,Error in module at line 157: API Timeout,
+3589,2024-12-15 17:31:00,Authentication Failure,High,user-dashboard,development,USR-3787,48.08,Error in module at line 342: Memory Leak,10.0.12.225
+3235,2024-06-10 22:05:00,Authentication Failure,Medium,notification-service,development,,,Error in module at line 301: Network Timeout,
+2478,2024-05-12 08:14:00,File Not Found,Critical,notification-service,development,,,Error in module at line 166: Database Connection Error,
+3212,2024-02-16 03:53:00,File Not Found,Critical,auth-service,development,USR-2897,,Error in module at line 195: Permission Denied,
+4704,2024-10-17 03:07:00,Authentication Failure,High,database-manager,staging,,,Error in module at line 126: Authentication Failure,10.0.151.155
+906,2024-08-02 23:27:00,API Timeout,Critical,user-dashboard,unknown,,,Error in module at line 67: System Crash,192.168.92.22
+3070,2024-07-20 10:33:00,Permission Denied,Critical,notification-service,production,USR-8313,,Error in module at line 276: Memory Leak,
+4940,,API Timeout,Medium,user-dashboard,development,,,Error in module at line 55: Memory Leak,
+626,2024-05-05 12:57:00,Performance Degradation,Critical,notification-service,production,USR-3057,,Error in module at line 309: UI Glitch,10.0.121.190
+1977,2024-01-20 03:15:00,Memory Leak,Unknown,unknown-module,development,,,Error in module at line 5: Permission Denied,
+3696,2024-02-16 03:03:00,Performance Degradation,High,database-manager,staging,,,Error in module at line 324: Memory Leak,10.0.14.194
+1535,2024-02-28 05:46:00,UI Glitch,Medium,notification-service,staging,USR-8921,1520.0,Error in module at line 472: File Not Found,10.0.70.56
+2643,,Performance Degradation,High,database-manager,development,,4608.24,Error in module at line 348: Performance Degradation,192.168.236.205
+4847,2024-02-20 19:44:00,Network Timeout,Critical,database-manager,staging,,,Error in module at line 75: Authentication Failure,192.168.57.5
+3107,2024-01-11 15:23:00,Permission Denied,Medium,api-gateway,production,,,Error in module at line 415: Network Timeout,
