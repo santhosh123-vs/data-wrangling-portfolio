@@ -1,0 +1,118 @@
+{
+  "project": "Bug Report ETL Pipeline",
+  "author": "Kethavath Saidamma",
+  "date": "2026-02-21",
+  "sources": {
+    "jira": 2120,
+    "github": 1500,
+    "excel": 1000
+  },
+  "unified_records": 4500,
+  "cleaning_steps": [
+    {
+      "step": 1,
+      "description": "Transformed JIRA data",
+      "details": "2120 records mapped to unified schema",
+      "reason": "JIRA has 15 columns that need mapping to our 16-column unified schema",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 2,
+      "description": "Transformed GitHub data",
+      "details": "1500 records mapped to unified schema",
+      "reason": "GitHub uses labels instead of priority and state instead of status",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 3,
+      "description": "Transformed Excel data",
+      "details": "1000 records mapped to unified schema",
+      "reason": "Excel data has informal column names and free-text fields",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 4,
+      "description": "Combined all sources",
+      "details": "Total: 4620 records from 3 sources",
+      "reason": "Unified schema enables cross-source analysis",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 5,
+      "description": "Removed duplicates",
+      "details": "Removed 120 duplicate records",
+      "reason": "Duplicates from same source with same ticket_id and title are redundant",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 6,
+      "description": "Standardized priority levels",
+      "details": "Mapped to Critical/High/Medium/Low. 0 unmapped values set to Unknown",
+      "reason": "18 different priority representations consolidated to 4 standard levels",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 7,
+      "description": "Standardized status values",
+      "details": "Mapped to Open/In Progress/Resolved/Closed",
+      "reason": "20+ status variations consolidated to 4 standard statuses",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 8,
+      "description": "Standardized component names",
+      "details": "Mapped to unified component names",
+      "reason": "Multiple naming conventions consolidated for cross-source analysis",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 9,
+      "description": "Standardized environment names",
+      "details": "Mapped to Production/Staging/Development/Testing",
+      "reason": "15 environment variations consolidated to 4 standard names",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 10,
+      "description": "Standardized SDLC phases",
+      "details": "Mapped to Requirements/Design/Development/Testing/Deployment/Maintenance",
+      "reason": "SDLC classification enables phase-based defect analysis",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 11,
+      "description": "Standardized date formats",
+      "details": "Valid created dates: 3584, Valid resolved dates: 1762",
+      "reason": "Multiple date formats unified to datetime for time-series analysis",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 12,
+      "description": "Cleaned time spent values",
+      "details": "Converted text values to minutes, removed invalid entries",
+      "reason": "Negative and zero values indicate logging errors, text values converted to numeric",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 13,
+      "description": "Cleaned reporter and assignee fields",
+      "details": "Standardized empty and placeholder values",
+      "reason": "UNKNOWN, empty strings, and None replaced with Unknown for consistency",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 14,
+      "description": "Standardized browser and OS names",
+      "details": "Unified browser and OS naming conventions",
+      "reason": "Inconsistent casing and abbreviations prevented accurate platform analysis",
+      "timestamp": "2026-02-21 07:28:46"
+    },
+    {
+      "step": 15,
+      "description": "Added computed fields",
+      "details": "Added resolution_days and bug_type classification",
+      "reason": "Bug type classification enables pattern analysis across crash vs UI vs performance issues",
+      "timestamp": "2026-02-21 07:28:46"
+    }
+  ]
+}

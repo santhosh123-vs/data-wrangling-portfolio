@@ -1,0 +1,1001 @@
+Bug #,Bug Title,Severity,Status Notes,Found By,Date Found,Module,Notes
+1,wrong calculation,,Still working on it,PM,April 2024,Dashboard,Critical for release
+2,error on submit,High,waiting for deploy,Developer,"Jan 15, 2024",Auth,Found in sprint 5
+3,wrong calculation,N/A,wont fix,QA Team,3/15/24,Auth,Happens sometimes
+4,slow performance,N/A,,QA Team,last week,Database,
+5,timeout error,Med,Fixed,Auto Test,last week,API,Low priority
+6,slow performance,High,DONE,Developer,2024-02-20,,Found in sprint 5
+7,ui looks weird,Not Important,Open,Developer,last week,Reports,
+8,login broken,low,closed - duplicate,,yesterday,Payments,
+9,login broken,Hi,closed - duplicate,Auto Test,yesterday,Payments,Customer complaint
+10,page not loading,Hi,Open,Developer,2024-02-20,Database,Critical for release
+11,error on submit,low,Open,Auto Test,last week,Reports,Customer complaint
+12,ui looks weird,Hi,wont fix,Customer,,Auth,Found in sprint 5
+13,error on submit,Hi,Still working on it,PM,last week,Reports,
+14,slow performance,Hi,DONE,Auto Test,2024-02-20,UI,Found in sprint 5
+15,slow performance,Hi,closed - duplicate,Developer,April 2024,Database,
+16,crash on mobile,Medium,DONE,,"Jan 15, 2024",UI,Happens sometimes
+17,wrong calculation,N/A,wont fix,Customer,2024-02-20,Dashboard,Low priority
+18,error on submit,Very High,wont fix,,3/15/24,,Critical for release
+19,page not loading,V. High,Fixed by John on Monday,QA Team,April 2024,API,Found in sprint 5
+20,timeout error,,wont fix,Customer,"Jan 15, 2024",Payments,Found in sprint 5
+21,wrong calculation,Low,Cant reproduce,,2024-02-20,Payments,
+22,slow performance,Lo,DONE,Customer,,UI,
+23,login broken,very high,Fixed by John on Monday,,yesterday,Login,Critical for release
+24,page not loading,Lo,wont fix,,yesterday,UI,Critical for release
+25,slow performance,Med,Cant reproduce,,2024-02-20,Database,Low priority
+26,timeout error,Low,Open,Auto Test,last week,Payments,Happens sometimes
+27,error on submit,High,DONE,QA Team,April 2024,,
+28,missing button,Not Important,Open,Customer,yesterday,Login,
+29,timeout error,med,Open,PM,yesterday,,Customer complaint
+30,ui looks weird,very high,Cant reproduce,,2024-02-20,Reports,Found in sprint 5
+31,ui looks weird,Very High,DONE,Customer,last week,Database,
+32,error on submit,Medium,,,,,
+33,error on submit,Hi,Fixed,,3/15/24,Login,
+34,missing button,Lo,,Customer,"Jan 15, 2024",API,Found in sprint 5
+35,page not loading,Medium,need more info,PM,3/15/24,Login,Customer complaint
+36,login broken,Lo,Open,,yesterday,Dashboard,Customer complaint
+37,crash on mobile,medium,DONE,Customer,"Jan 15, 2024",Auth,Low priority
+38,page not loading,high,DONE,QA Team,yesterday,API,
+39,data not saving,very high,Cant reproduce,Customer,,Database,Happens sometimes
+40,data not saving,Hi,closed - duplicate,QA Team,,Auth,
+41,slow performance,Not Important,waiting for deploy,QA Team,,Database,
+42,missing button,Medium,closed - duplicate,PM,,API,
+43,error on submit,low,Cant reproduce,Developer,last week,Auth,Happens sometimes
+44,ui looks weird,V. High,waiting for deploy,Developer,yesterday,UI,Happens sometimes
+45,slow performance,Low,,QA Team,"Jan 15, 2024",Login,Happens sometimes
+46,wrong calculation,,Fixed by John on Monday,,3/15/24,Login,Found in sprint 5
+47,login broken,high,waiting for deploy,,yesterday,Dashboard,Happens sometimes
+48,ui looks weird,V. High,DONE,Auto Test,April 2024,,Critical for release
+49,error on submit,low,Open,Auto Test,,,Happens sometimes
+50,error on submit,Very High,wont fix,PM,April 2024,Reports,Happens sometimes
+51,ui looks weird,Very High,wont fix,QA Team,2024-02-20,Auth,
+52,timeout error,Very High,,,3/15/24,Reports,
+53,wrong calculation,Hi,Fixed by John on Monday,,last week,Dashboard,Critical for release
+54,missing button,low,need more info,PM,yesterday,Dashboard,Happens sometimes
+55,data not saving,Hi,Still working on it,PM,3/15/24,Payments,Critical for release
+56,login broken,very high,Open,Auto Test,April 2024,Login,Happens sometimes
+57,slow performance,Med,Fixed by John on Monday,PM,,Auth,Found in sprint 5
+58,crash on mobile,Low,closed - duplicate,QA Team,,Dashboard,Happens sometimes
+59,wrong calculation,N/A,,QA Team,3/15/24,UI,Found in sprint 5
+60,data not saving,Med,waiting for deploy,PM,last week,Database,Happens sometimes
+61,slow performance,Not Important,closed - duplicate,PM,,Login,Critical for release
+62,page not loading,high,Open,,last week,Login,Customer complaint
+63,error on submit,Lo,,QA Team,April 2024,API,Customer complaint
+64,login broken,N/A,need more info,QA Team,"Jan 15, 2024",API,Happens sometimes
+65,wrong calculation,Low,,Developer,,Database,Low priority
+66,wrong calculation,N/A,Open,Developer,last week,Database,Low priority
+67,wrong calculation,Low,,,yesterday,Login,Customer complaint
+68,crash on mobile,medium,Open,PM,yesterday,Dashboard,Critical for release
+69,ui looks weird,Medium,Cant reproduce,Customer,April 2024,Dashboard,
+70,crash on mobile,Med,Still working on it,,,Reports,Low priority
+71,crash on mobile,Very High,,PM,last week,API,Found in sprint 5
+72,ui looks weird,very high,waiting for deploy,QA Team,,Reports,Customer complaint
+73,data not saving,Med,need more info,QA Team,2024-02-20,Reports,Low priority
+74,crash on mobile,High,DONE,PM,,Auth,
+75,missing button,Med,closed - duplicate,Auto Test,last week,,Low priority
+76,data not saving,Medium,Fixed by John on Monday,,,Database,Happens sometimes
+77,wrong calculation,high,Fixed,Auto Test,2024-02-20,Database,
+78,page not loading,High,Still working on it,Customer,yesterday,,
+79,page not loading,High,DONE,Auto Test,2024-02-20,Login,Found in sprint 5
+80,ui looks weird,low,Open,,,Login,Low priority
+81,ui looks weird,V. High,waiting for deploy,,,Payments,Critical for release
+82,missing button,V. High,need more info,Customer,yesterday,API,
+83,ui looks weird,very high,,,April 2024,Reports,Happens sometimes
+84,wrong calculation,Medium,wont fix,,yesterday,Auth,Low priority
+85,timeout error,medium,waiting for deploy,,last week,Payments,Low priority
+86,missing button,,,Developer,April 2024,Login,Found in sprint 5
+87,crash on mobile,Hi,need more info,Developer,"Jan 15, 2024",Database,Customer complaint
+88,ui looks weird,Medium,Open,Auto Test,3/15/24,API,Low priority
+89,missing button,High,Open,,April 2024,UI,Low priority
+90,error on submit,medium,Fixed,Developer,,Dashboard,Critical for release
+91,missing button,med,,Auto Test,"Jan 15, 2024",,
+92,ui looks weird,Hi,Fixed by John on Monday,Customer,,Dashboard,Critical for release
+93,data not saving,High,Still working on it,QA Team,3/15/24,Login,Found in sprint 5
+94,login broken,Med,waiting for deploy,,,Database,Customer complaint
+95,timeout error,N/A,Fixed by John on Monday,Auto Test,April 2024,,
+96,missing button,Med,Fixed,,,Payments,Critical for release
+97,login broken,Medium,DONE,,April 2024,Reports,
+98,slow performance,V. High,Fixed by John on Monday,,,UI,Happens sometimes
+99,page not loading,Lo,DONE,Auto Test,,Login,Customer complaint
+100,page not loading,Lo,closed - duplicate,Auto Test,April 2024,Database,Customer complaint
+101,ui looks weird,very high,need more info,PM,yesterday,,Low priority
+102,wrong calculation,very high,closed - duplicate,Auto Test,last week,API,
+103,missing button,high,,QA Team,2024-02-20,Reports,Low priority
+104,crash on mobile,Medium,Fixed by John on Monday,,,Payments,
+105,error on submit,low,Fixed,Developer,2024-02-20,Reports,
+106,wrong calculation,N/A,Fixed by John on Monday,Customer,April 2024,Auth,
+107,ui looks weird,Low,,,,Auth,Customer complaint
+108,crash on mobile,V. High,Open,Developer,3/15/24,Payments,Happens sometimes
+109,missing button,Very High,closed - duplicate,PM,yesterday,API,Found in sprint 5
+110,missing button,Lo,Fixed by John on Monday,QA Team,April 2024,Login,Happens sometimes
+111,data not saving,Hi,Fixed,Auto Test,"Jan 15, 2024",Login,Customer complaint
+112,page not loading,Lo,DONE,PM,April 2024,Auth,Happens sometimes
+113,wrong calculation,Medium,,,April 2024,Database,
+114,error on submit,very high,waiting for deploy,,3/15/24,Reports,Customer complaint
+115,page not loading,V. High,Still working on it,Customer,,Reports,Found in sprint 5
+116,crash on mobile,med,Fixed by John on Monday,Developer,,Reports,Low priority
+117,data not saving,N/A,waiting for deploy,,yesterday,API,Happens sometimes
+118,error on submit,Medium,need more info,QA Team,April 2024,Dashboard,
+119,ui looks weird,Lo,Still working on it,Developer,April 2024,Dashboard,Low priority
+120,slow performance,,Fixed by John on Monday,Customer,3/15/24,Reports,Low priority
+121,timeout error,med,wont fix,QA Team,yesterday,Dashboard,Customer complaint
+122,data not saving,high,need more info,PM,yesterday,,
+123,error on submit,medium,Cant reproduce,Developer,2024-02-20,Database,
+124,timeout error,very high,need more info,Customer,last week,Reports,
+125,data not saving,Hi,Open,PM,April 2024,UI,Happens sometimes
+126,timeout error,Med,Fixed by John on Monday,QA Team,,Login,
+127,ui looks weird,Medium,Open,Developer,2024-02-20,UI,Happens sometimes
+128,crash on mobile,low,wont fix,Customer,last week,Dashboard,
+129,slow performance,med,,Developer,,Login,Low priority
+130,slow performance,Not Important,,,,Database,
+131,login broken,V. High,Still working on it,Auto Test,,Auth,Customer complaint
+132,slow performance,High,DONE,,yesterday,Login,Happens sometimes
+133,ui looks weird,high,Fixed,,2024-02-20,Login,Customer complaint
+134,error on submit,Medium,wont fix,Auto Test,,Reports,Customer complaint
+135,data not saving,very high,wont fix,Customer,yesterday,UI,Happens sometimes
+136,error on submit,V. High,Still working on it,PM,,Database,Happens sometimes
+137,crash on mobile,very high,DONE,,3/15/24,UI,
+138,data not saving,High,DONE,,,Reports,
+139,ui looks weird,V. High,,Developer,"Jan 15, 2024",Auth,
+140,ui looks weird,V. High,,Customer,,API,Happens sometimes
+141,timeout error,Low,DONE,,"Jan 15, 2024",Reports,Critical for release
+142,crash on mobile,Hi,closed - duplicate,PM,2024-02-20,Reports,
+143,ui looks weird,N/A,,,last week,Reports,Low priority
+144,timeout error,low,Cant reproduce,Customer,"Jan 15, 2024",Payments,Low priority
+145,missing button,Not Important,,PM,April 2024,Payments,Low priority
+146,wrong calculation,Very High,Fixed by John on Monday,,3/15/24,API,Customer complaint
+147,slow performance,N/A,Open,Auto Test,3/15/24,Login,
+148,error on submit,High,closed - duplicate,,"Jan 15, 2024",Dashboard,Customer complaint
+149,wrong calculation,medium,need more info,,,UI,Found in sprint 5
+150,page not loading,medium,,PM,yesterday,Database,Happens sometimes
+151,wrong calculation,high,waiting for deploy,QA Team,yesterday,Payments,Customer complaint
+152,error on submit,,DONE,QA Team,April 2024,Payments,Low priority
+153,missing button,medium,DONE,PM,,Reports,Customer complaint
+154,login broken,V. High,Cant reproduce,,"Jan 15, 2024",API,Critical for release
+155,ui looks weird,medium,waiting for deploy,Auto Test,"Jan 15, 2024",Database,Customer complaint
+156,missing button,Not Important,Fixed by John on Monday,PM,2024-02-20,Dashboard,Happens sometimes
+157,ui looks weird,very high,,PM,yesterday,UI,Customer complaint
+158,login broken,High,waiting for deploy,Auto Test,3/15/24,Dashboard,
+159,timeout error,Lo,wont fix,Auto Test,,Dashboard,Customer complaint
+160,error on submit,High,wont fix,QA Team,2024-02-20,,Found in sprint 5
+161,wrong calculation,Very High,,Auto Test,last week,Reports,Happens sometimes
+162,data not saving,Low,need more info,Developer,"Jan 15, 2024",Database,
+163,login broken,High,,,"Jan 15, 2024",Payments,Low priority
+164,login broken,Med,,,,UI,Low priority
+165,slow performance,V. High,Still working on it,QA Team,2024-02-20,Dashboard,
+166,timeout error,Very High,Cant reproduce,PM,"Jan 15, 2024",Auth,Critical for release
+167,page not loading,N/A,Open,,"Jan 15, 2024",Database,Critical for release
+168,error on submit,Low,,,2024-02-20,Payments,Happens sometimes
+169,ui looks weird,Hi,need more info,Customer,,Dashboard,Happens sometimes
+170,page not loading,Medium,DONE,Developer,last week,Auth,
+171,crash on mobile,,Cant reproduce,Auto Test,2024-02-20,Payments,Happens sometimes
+172,ui looks weird,very high,,QA Team,,Auth,Happens sometimes
+173,page not loading,med,,Customer,,Login,
+174,timeout error,Med,Fixed by John on Monday,QA Team,2024-02-20,Database,Low priority
+175,login broken,N/A,closed - duplicate,Developer,last week,Database,Critical for release
+176,crash on mobile,Medium,Fixed by John on Monday,PM,April 2024,UI,Critical for release
+177,missing button,medium,closed - duplicate,Auto Test,2024-02-20,Auth,Critical for release
+178,wrong calculation,N/A,,QA Team,,Auth,Found in sprint 5
+179,slow performance,very high,Cant reproduce,Developer,yesterday,,
+180,error on submit,med,,,"Jan 15, 2024",Auth,Critical for release
+181,ui looks weird,medium,,,yesterday,API,Happens sometimes
+182,page not loading,,Fixed by John on Monday,Developer,last week,Database,Customer complaint
+183,error on submit,Low,need more info,,April 2024,API,Customer complaint
+184,missing button,Very High,Still working on it,Customer,,UI,
+185,missing button,Very High,Cant reproduce,QA Team,2024-02-20,UI,
+186,ui looks weird,very high,need more info,QA Team,April 2024,Reports,
+187,ui looks weird,Med,,PM,April 2024,UI,Low priority
+188,login broken,V. High,Still working on it,Developer,,Dashboard,Low priority
+189,wrong calculation,Hi,Open,Developer,,UI,
+190,data not saving,Not Important,Fixed,Customer,last week,Auth,Customer complaint
+191,wrong calculation,N/A,Fixed,,April 2024,API,Found in sprint 5
+192,timeout error,Hi,,,last week,Payments,Happens sometimes
+193,missing button,Lo,wont fix,Customer,,Payments,Critical for release
+194,login broken,Medium,Open,Customer,2024-02-20,Dashboard,Critical for release
+195,error on submit,High,wont fix,,April 2024,API,
+196,page not loading,Low,Still working on it,Auto Test,"Jan 15, 2024",Database,
+197,page not loading,Lo,wont fix,Auto Test,2024-02-20,Dashboard,Low priority
+198,missing button,Low,need more info,,,Login,Low priority
+199,ui looks weird,V. High,Cant reproduce,QA Team,,Login,Critical for release
+200,missing button,med,Cant reproduce,,last week,,
+201,timeout error,medium,waiting for deploy,QA Team,3/15/24,Database,Low priority
+202,error on submit,Very High,Fixed by John on Monday,Auto Test,April 2024,Dashboard,Customer complaint
+203,crash on mobile,Lo,,,last week,Reports,Low priority
+204,timeout error,High,Still working on it,,April 2024,Payments,Low priority
+205,slow performance,low,Still working on it,Developer,,,Found in sprint 5
+206,error on submit,medium,need more info,Developer,"Jan 15, 2024",API,Found in sprint 5
+207,wrong calculation,high,,Developer,last week,Auth,Low priority
+208,error on submit,High,Fixed,PM,yesterday,Dashboard,Happens sometimes
+209,error on submit,Very High,DONE,,last week,Reports,Customer complaint
+210,timeout error,high,Fixed by John on Monday,,"Jan 15, 2024",UI,Critical for release
+211,wrong calculation,Medium,,QA Team,"Jan 15, 2024",UI,
+212,slow performance,med,wont fix,PM,,Login,Critical for release
+213,ui looks weird,Medium,waiting for deploy,PM,2024-02-20,Auth,
+214,ui looks weird,Not Important,waiting for deploy,Auto Test,yesterday,API,
+215,timeout error,N/A,Fixed,Customer,,Auth,Critical for release
+216,wrong calculation,Hi,closed - duplicate,,yesterday,Database,
+217,timeout error,Low,Fixed,Customer,,Auth,Low priority
+218,ui looks weird,med,closed - duplicate,,,Login,Found in sprint 5
+219,page not loading,very high,,Auto Test,3/15/24,Login,Found in sprint 5
+220,missing button,Low,closed - duplicate,,last week,Database,
+221,error on submit,Very High,Open,Developer,3/15/24,Reports,
+222,crash on mobile,very high,DONE,Developer,last week,Login,
+223,slow performance,low,waiting for deploy,PM,2024-02-20,Dashboard,Happens sometimes
+224,wrong calculation,high,Cant reproduce,,3/15/24,Login,
+225,missing button,high,Still working on it,QA Team,2024-02-20,Payments,
+226,login broken,V. High,closed - duplicate,Auto Test,April 2024,Database,
+227,timeout error,V. High,Still working on it,Auto Test,last week,UI,Found in sprint 5
+228,login broken,Medium,waiting for deploy,Developer,,Reports,
+229,timeout error,medium,Open,Developer,,Auth,Critical for release
+230,timeout error,Low,wont fix,PM,3/15/24,,Critical for release
+231,ui looks weird,high,Fixed by John on Monday,,3/15/24,Payments,
+232,data not saving,N/A,DONE,PM,,UI,Happens sometimes
+233,slow performance,low,closed - duplicate,Developer,3/15/24,Database,
+234,login broken,low,Cant reproduce,Developer,3/15/24,Database,Found in sprint 5
+235,missing button,low,need more info,,3/15/24,Auth,Happens sometimes
+236,wrong calculation,Med,DONE,Customer,April 2024,UI,Customer complaint
+237,login broken,V. High,closed - duplicate,Customer,,Auth,
+238,missing button,Med,,Auto Test,April 2024,UI,
+239,slow performance,medium,Still working on it,PM,3/15/24,,Customer complaint
+240,slow performance,N/A,waiting for deploy,,,Login,
+241,timeout error,V. High,Fixed,,,,Customer complaint
+242,missing button,high,Fixed,,April 2024,UI,Low priority
+243,slow performance,low,wont fix,,3/15/24,Database,Low priority
+244,crash on mobile,Low,DONE,PM,,Database,Found in sprint 5
+245,ui looks weird,V. High,waiting for deploy,Customer,yesterday,Auth,Happens sometimes
+246,timeout error,,Still working on it,Auto Test,April 2024,Auth,Critical for release
+247,crash on mobile,Not Important,need more info,Developer,3/15/24,Auth,
+248,login broken,med,Cant reproduce,PM,3/15/24,Payments,Happens sometimes
+249,crash on mobile,High,need more info,,April 2024,,Customer complaint
+250,ui looks weird,Very High,,Auto Test,"Jan 15, 2024",Reports,Low priority
+251,crash on mobile,Low,Open,,yesterday,UI,Happens sometimes
+252,timeout error,N/A,Still working on it,Developer,,Dashboard,Happens sometimes
+253,timeout error,Low,wont fix,Customer,,Database,Customer complaint
+254,missing button,Medium,Still working on it,Customer,2024-02-20,UI,
+255,login broken,Lo,Cant reproduce,,"Jan 15, 2024",Login,Critical for release
+256,crash on mobile,medium,,Customer,,Auth,
+257,wrong calculation,Very High,Open,Customer,last week,Reports,Found in sprint 5
+258,error on submit,Very High,waiting for deploy,Customer,"Jan 15, 2024",Auth,Happens sometimes
+259,page not loading,V. High,Fixed by John on Monday,,,Payments,
+260,login broken,Not Important,Open,QA Team,yesterday,Auth,
+261,error on submit,very high,need more info,Developer,last week,UI,Happens sometimes
+262,timeout error,High,Still working on it,Developer,last week,Auth,Happens sometimes
+263,wrong calculation,Hi,,Auto Test,,Dashboard,Happens sometimes
+264,data not saving,very high,waiting for deploy,,,Auth,Low priority
+265,wrong calculation,high,,Customer,April 2024,API,Found in sprint 5
+266,timeout error,Med,Still working on it,,,API,Happens sometimes
+267,data not saving,Not Important,,Customer,"Jan 15, 2024",Database,
+268,wrong calculation,High,waiting for deploy,,2024-02-20,Database,Customer complaint
+269,login broken,med,Fixed by John on Monday,Customer,3/15/24,Dashboard,Low priority
+270,error on submit,Med,need more info,PM,April 2024,Auth,
+271,login broken,low,Fixed by John on Monday,,last week,Login,
+272,data not saving,,closed - duplicate,PM,last week,Login,Happens sometimes
+273,ui looks weird,med,DONE,Auto Test,2024-02-20,Payments,Happens sometimes
+274,login broken,,need more info,Auto Test,2024-02-20,API,Low priority
+275,login broken,V. High,,PM,April 2024,Database,
+276,login broken,Medium,closed - duplicate,Customer,,API,Low priority
+277,ui looks weird,Medium,,,,,Critical for release
+278,crash on mobile,Very High,DONE,PM,2024-02-20,,Found in sprint 5
+279,crash on mobile,very high,DONE,Auto Test,April 2024,UI,Found in sprint 5
+280,login broken,Hi,waiting for deploy,Developer,,UI,Critical for release
+281,wrong calculation,med,Open,PM,"Jan 15, 2024",Dashboard,
+282,timeout error,Medium,Fixed by John on Monday,Customer,April 2024,API,
+283,wrong calculation,Medium,need more info,,,Auth,Low priority
+284,login broken,Med,,Developer,April 2024,Auth,Low priority
+285,timeout error,High,Cant reproduce,PM,2024-02-20,Database,
+286,missing button,Hi,Fixed by John on Monday,QA Team,,Payments,Happens sometimes
+287,crash on mobile,,closed - duplicate,PM,"Jan 15, 2024",Dashboard,Found in sprint 5
+288,missing button,N/A,Fixed,Developer,yesterday,API,Low priority
+289,missing button,high,,,,API,Customer complaint
+290,page not loading,med,Open,,3/15/24,,Low priority
+291,page not loading,High,wont fix,,April 2024,Reports,Critical for release
+292,error on submit,medium,,Customer,"Jan 15, 2024",Database,
+293,missing button,,Cant reproduce,PM,last week,API,Happens sometimes
+294,ui looks weird,Low,Cant reproduce,Customer,2024-02-20,Auth,
+295,login broken,medium,Cant reproduce,PM,yesterday,Reports,
+296,slow performance,very high,Cant reproduce,QA Team,2024-02-20,Dashboard,
+297,ui looks weird,Medium,,PM,3/15/24,,
+298,crash on mobile,Lo,Fixed,PM,April 2024,Login,Customer complaint
+299,error on submit,Lo,,Customer,2024-02-20,Database,Customer complaint
+300,data not saving,very high,waiting for deploy,,April 2024,Auth,Customer complaint
+301,login broken,Hi,Cant reproduce,QA Team,3/15/24,UI,Customer complaint
+302,missing button,Very High,waiting for deploy,,"Jan 15, 2024",Login,Found in sprint 5
+303,crash on mobile,V. High,Open,Developer,yesterday,UI,
+304,data not saving,med,need more info,,"Jan 15, 2024",Payments,Happens sometimes
+305,slow performance,N/A,closed - duplicate,Auto Test,April 2024,Dashboard,
+306,missing button,med,DONE,,2024-02-20,Payments,
+307,crash on mobile,V. High,,Developer,yesterday,,Found in sprint 5
+308,page not loading,med,DONE,QA Team,,Database,
+309,page not loading,,waiting for deploy,PM,yesterday,Dashboard,
+310,page not loading,Medium,Still working on it,Customer,yesterday,Reports,Critical for release
+311,page not loading,Med,closed - duplicate,Auto Test,April 2024,Dashboard,Customer complaint
+312,ui looks weird,high,Fixed,QA Team,"Jan 15, 2024",Auth,Low priority
+313,slow performance,N/A,Still working on it,Developer,April 2024,Auth,Customer complaint
+314,crash on mobile,medium,Open,,April 2024,UI,Customer complaint
+315,timeout error,Low,,Developer,"Jan 15, 2024",Login,Critical for release
+316,missing button,Med,,PM,2024-02-20,UI,Critical for release
+317,error on submit,Medium,,Developer,,API,Customer complaint
+318,ui looks weird,medium,closed - duplicate,Customer,3/15/24,,Low priority
+319,login broken,V. High,Open,Developer,3/15/24,Login,
+320,missing button,,closed - duplicate,Auto Test,last week,Auth,Found in sprint 5
+321,ui looks weird,Hi,wont fix,PM,,Login,Happens sometimes
+322,wrong calculation,N/A,waiting for deploy,Developer,yesterday,UI,Found in sprint 5
+323,ui looks weird,Hi,Cant reproduce,Auto Test,"Jan 15, 2024",,Happens sometimes
+324,wrong calculation,very high,Fixed by John on Monday,Developer,"Jan 15, 2024",Reports,Low priority
+325,crash on mobile,high,Fixed,,,Payments,Customer complaint
+326,timeout error,Very High,Fixed by John on Monday,PM,,API,Happens sometimes
+327,page not loading,Not Important,Fixed by John on Monday,,last week,Payments,Found in sprint 5
+328,data not saving,low,Still working on it,PM,2024-02-20,Reports,
+329,login broken,high,closed - duplicate,Auto Test,,Dashboard,Customer complaint
+330,ui looks weird,Low,DONE,QA Team,3/15/24,API,Critical for release
+331,ui looks weird,Medium,need more info,Developer,3/15/24,Reports,
+332,crash on mobile,,Open,Auto Test,April 2024,Payments,Happens sometimes
+333,ui looks weird,Low,Still working on it,,last week,Database,Happens sometimes
+334,crash on mobile,low,,Customer,"Jan 15, 2024",,Happens sometimes
+335,page not loading,very high,Open,QA Team,2024-02-20,Dashboard,
+336,wrong calculation,very high,Open,Auto Test,"Jan 15, 2024",Auth,Critical for release
+337,timeout error,Low,,PM,,UI,Found in sprint 5
+338,ui looks weird,Hi,wont fix,Customer,April 2024,Auth,Found in sprint 5
+339,page not loading,Low,need more info,QA Team,2024-02-20,API,Low priority
+340,page not loading,high,Fixed,,2024-02-20,Payments,
+341,ui looks weird,high,Fixed,,last week,Dashboard,
+342,slow performance,Med,wont fix,,"Jan 15, 2024",API,
+343,slow performance,,waiting for deploy,Customer,April 2024,,
+344,missing button,low,Cant reproduce,PM,3/15/24,API,
+345,login broken,very high,Still working on it,,2024-02-20,Payments,Customer complaint
+346,missing button,Med,need more info,Developer,2024-02-20,Database,Low priority
+347,data not saving,Very High,,,,,Happens sometimes
+348,timeout error,med,,,,Dashboard,Critical for release
+349,login broken,medium,Open,Auto Test,2024-02-20,Database,
+350,page not loading,Not Important,,Customer,April 2024,Payments,Found in sprint 5
+351,wrong calculation,High,,PM,"Jan 15, 2024",Database,
+352,data not saving,low,need more info,Customer,yesterday,Auth,Low priority
+353,wrong calculation,N/A,wont fix,Auto Test,yesterday,,Happens sometimes
+354,login broken,high,,Auto Test,3/15/24,Database,Low priority
+355,page not loading,V. High,Still working on it,,3/15/24,UI,
+356,data not saving,Hi,Open,,,Payments,
+357,missing button,V. High,waiting for deploy,Developer,"Jan 15, 2024",Reports,Found in sprint 5
+358,missing button,Low,wont fix,Customer,April 2024,,Happens sometimes
+359,timeout error,V. High,closed - duplicate,Developer,,Auth,
+360,slow performance,low,wont fix,QA Team,2024-02-20,Reports,
+361,crash on mobile,Med,wont fix,,yesterday,Dashboard,Low priority
+362,ui looks weird,Hi,wont fix,QA Team,,Database,
+363,data not saving,Medium,DONE,,last week,API,Found in sprint 5
+364,page not loading,Not Important,Still working on it,,3/15/24,Login,Low priority
+365,login broken,low,closed - duplicate,Customer,"Jan 15, 2024",Dashboard,Happens sometimes
+366,timeout error,V. High,Cant reproduce,,,UI,Low priority
+367,ui looks weird,med,closed - duplicate,Auto Test,3/15/24,Auth,
+368,timeout error,medium,Cant reproduce,,,Login,Happens sometimes
+369,data not saving,,Fixed by John on Monday,Customer,April 2024,Dashboard,Happens sometimes
+370,missing button,N/A,DONE,QA Team,last week,Database,
+371,crash on mobile,N/A,closed - duplicate,Customer,,Login,Low priority
+372,timeout error,very high,need more info,Customer,yesterday,Dashboard,Happens sometimes
+373,missing button,very high,Cant reproduce,Customer,,Database,Happens sometimes
+374,wrong calculation,Low,wont fix,Auto Test,"Jan 15, 2024",Reports,
+375,timeout error,med,need more info,QA Team,yesterday,Login,
+376,ui looks weird,med,Still working on it,Developer,April 2024,API,Found in sprint 5
+377,ui looks weird,medium,Fixed,,3/15/24,Payments,Customer complaint
+378,data not saving,N/A,DONE,Developer,yesterday,,Found in sprint 5
+379,crash on mobile,very high,DONE,,,API,
+380,crash on mobile,High,Still working on it,Auto Test,,Payments,Happens sometimes
+381,ui looks weird,low,,,2024-02-20,Auth,Low priority
+382,page not loading,Low,Open,Auto Test,2024-02-20,API,Found in sprint 5
+383,login broken,medium,wont fix,Developer,"Jan 15, 2024",API,Critical for release
+384,crash on mobile,Hi,Open,,yesterday,,
+385,ui looks weird,,Cant reproduce,Developer,April 2024,Reports,
+386,ui looks weird,Medium,Open,QA Team,"Jan 15, 2024",Database,Critical for release
+387,ui looks weird,medium,Open,Auto Test,,Dashboard,Critical for release
+388,data not saving,V. High,Open,,last week,API,Found in sprint 5
+389,page not loading,Not Important,,,last week,Auth,
+390,page not loading,med,Fixed,Customer,April 2024,,Customer complaint
+391,missing button,Very High,Fixed by John on Monday,Customer,"Jan 15, 2024",Login,Critical for release
+392,data not saving,Very High,Open,PM,,Database,Found in sprint 5
+393,crash on mobile,med,Still working on it,Customer,2024-02-20,,
+394,missing button,medium,,Auto Test,"Jan 15, 2024",Auth,Critical for release
+395,crash on mobile,very high,Cant reproduce,PM,"Jan 15, 2024",Reports,Customer complaint
+396,data not saving,High,Cant reproduce,PM,"Jan 15, 2024",Auth,Critical for release
+397,error on submit,Hi,Open,Customer,yesterday,API,
+398,data not saving,Hi,Open,Developer,,Payments,Customer complaint
+399,ui looks weird,Med,waiting for deploy,,2024-02-20,Dashboard,Low priority
+400,timeout error,V. High,,,yesterday,Reports,Low priority
+401,missing button,Hi,wont fix,,,Reports,Found in sprint 5
+402,data not saving,low,DONE,QA Team,2024-02-20,Dashboard,
+403,ui looks weird,medium,DONE,,2024-02-20,Database,Customer complaint
+404,slow performance,Very High,Cant reproduce,PM,"Jan 15, 2024",,
+405,login broken,high,,Auto Test,"Jan 15, 2024",Payments,Found in sprint 5
+406,ui looks weird,med,Cant reproduce,,April 2024,Dashboard,Low priority
+407,data not saving,High,waiting for deploy,Developer,,Dashboard,Customer complaint
+408,slow performance,med,Fixed by John on Monday,QA Team,,Auth,Low priority
+409,page not loading,medium,Still working on it,,yesterday,API,Customer complaint
+410,error on submit,low,Still working on it,,,API,
+411,slow performance,Very High,Still working on it,PM,"Jan 15, 2024",Payments,Found in sprint 5
+412,wrong calculation,Low,Fixed,,April 2024,UI,Critical for release
+413,data not saving,N/A,Still working on it,Developer,yesterday,Login,Customer complaint
+414,data not saving,Low,,,,UI,Low priority
+415,wrong calculation,very high,Fixed by John on Monday,,3/15/24,API,Critical for release
+416,data not saving,Not Important,Fixed,,,Login,
+417,ui looks weird,Low,Open,Customer,,Auth,
+418,error on submit,med,waiting for deploy,Customer,April 2024,Auth,
+419,slow performance,Med,Cant reproduce,QA Team,,Payments,Low priority
+420,data not saving,Very High,Fixed by John on Monday,Developer,"Jan 15, 2024",Dashboard,Low priority
+421,slow performance,high,Cant reproduce,Auto Test,"Jan 15, 2024",Reports,Low priority
+422,ui looks weird,Not Important,waiting for deploy,QA Team,3/15/24,UI,Happens sometimes
+423,error on submit,very high,Still working on it,,,Reports,
+424,login broken,Low,,QA Team,April 2024,Dashboard,
+425,slow performance,High,DONE,Auto Test,3/15/24,Dashboard,Found in sprint 5
+426,login broken,Hi,need more info,,2024-02-20,Auth,
+427,crash on mobile,very high,closed - duplicate,Auto Test,yesterday,Payments,Customer complaint
+428,missing button,,Fixed,Auto Test,,UI,Found in sprint 5
+429,error on submit,very high,waiting for deploy,Customer,yesterday,Login,Found in sprint 5
+430,wrong calculation,med,Cant reproduce,QA Team,2024-02-20,API,
+431,page not loading,Lo,,Auto Test,last week,Login,Critical for release
+432,page not loading,Lo,waiting for deploy,,"Jan 15, 2024",Payments,
+433,crash on mobile,High,,Auto Test,2024-02-20,Dashboard,Low priority
+434,wrong calculation,Med,wont fix,Developer,,,Low priority
+435,error on submit,Med,closed - duplicate,Customer,last week,Login,Happens sometimes
+436,data not saving,low,Fixed by John on Monday,,April 2024,Payments,Found in sprint 5
+437,page not loading,Lo,Fixed,QA Team,yesterday,Payments,Happens sometimes
+438,crash on mobile,,Fixed,PM,,UI,Found in sprint 5
+439,login broken,Medium,Fixed,PM,last week,Reports,
+440,login broken,N/A,waiting for deploy,,last week,Dashboard,
+441,timeout error,Very High,DONE,,"Jan 15, 2024",UI,
+442,data not saving,V. High,Still working on it,,April 2024,,Happens sometimes
+443,crash on mobile,Not Important,DONE,Auto Test,last week,API,
+444,crash on mobile,Medium,,Developer,,Database,Happens sometimes
+445,wrong calculation,low,Open,QA Team,2024-02-20,API,Happens sometimes
+446,login broken,Medium,need more info,Customer,"Jan 15, 2024",Reports,Customer complaint
+447,data not saving,High,,Auto Test,,Dashboard,Low priority
+448,page not loading,Lo,Open,,3/15/24,Database,Low priority
+449,page not loading,med,closed - duplicate,Auto Test,3/15/24,Login,Found in sprint 5
+450,login broken,high,Fixed by John on Monday,,yesterday,API,
+451,missing button,Med,Fixed,,yesterday,UI,
+452,missing button,low,Open,Customer,"Jan 15, 2024",Database,
+453,wrong calculation,med,waiting for deploy,Customer,April 2024,,
+454,data not saving,Med,Fixed,PM,"Jan 15, 2024",Payments,
+455,wrong calculation,Very High,DONE,PM,2024-02-20,UI,
+456,wrong calculation,High,Still working on it,Customer,2024-02-20,Dashboard,Found in sprint 5
+457,error on submit,High,need more info,,,,Customer complaint
+458,page not loading,low,DONE,,,Login,
+459,data not saving,Low,waiting for deploy,Customer,3/15/24,Payments,
+460,slow performance,Medium,Fixed by John on Monday,QA Team,3/15/24,Auth,
+461,data not saving,medium,,Auto Test,2024-02-20,Login,
+462,crash on mobile,High,Open,Auto Test,April 2024,API,Critical for release
+463,wrong calculation,med,waiting for deploy,Developer,,Dashboard,Found in sprint 5
+464,timeout error,Very High,need more info,PM,2024-02-20,,Critical for release
+465,missing button,,Open,,2024-02-20,Database,Critical for release
+466,ui looks weird,Hi,Still working on it,Auto Test,April 2024,UI,Happens sometimes
+467,data not saving,low,waiting for deploy,,"Jan 15, 2024",Reports,
+468,missing button,N/A,Fixed,Customer,April 2024,,
+469,error on submit,low,,,3/15/24,Auth,
+470,crash on mobile,Not Important,,,2024-02-20,Auth,Low priority
+471,page not loading,very high,Fixed by John on Monday,PM,"Jan 15, 2024",API,Happens sometimes
+472,timeout error,Hi,Fixed by John on Monday,Auto Test,3/15/24,Login,
+473,ui looks weird,N/A,Still working on it,PM,April 2024,Payments,Customer complaint
+474,ui looks weird,high,,Auto Test,3/15/24,Login,Low priority
+475,error on submit,Medium,,QA Team,yesterday,Auth,Found in sprint 5
+476,ui looks weird,V. High,DONE,,last week,Login,Happens sometimes
+477,login broken,Medium,Still working on it,Customer,April 2024,,Found in sprint 5
+478,page not loading,low,Still working on it,Customer,2024-02-20,API,
+479,missing button,high,Still working on it,Developer,,Database,Found in sprint 5
+480,slow performance,Low,Still working on it,Customer,last week,Database,
+481,ui looks weird,high,need more info,QA Team,yesterday,Login,Critical for release
+482,wrong calculation,low,Still working on it,Auto Test,last week,,Happens sometimes
+483,ui looks weird,Very High,,Auto Test,April 2024,API,Low priority
+484,ui looks weird,V. High,waiting for deploy,Customer,yesterday,Auth,Low priority
+485,slow performance,high,,PM,2024-02-20,Database,Customer complaint
+486,wrong calculation,High,Cant reproduce,Customer,"Jan 15, 2024",,Critical for release
+487,error on submit,,wont fix,,,Auth,Critical for release
+488,slow performance,low,Fixed,PM,April 2024,Dashboard,
+489,data not saving,high,Cant reproduce,Auto Test,April 2024,UI,Low priority
+490,crash on mobile,Med,Open,Auto Test,2024-02-20,Reports,Customer complaint
+491,missing button,Very High,Cant reproduce,Developer,2024-02-20,Payments,Critical for release
+492,wrong calculation,Very High,Open,Customer,2024-02-20,Dashboard,Customer complaint
+493,slow performance,High,,Customer,last week,,Customer complaint
+494,data not saving,V. High,DONE,Auto Test,,Database,Happens sometimes
+495,error on submit,Very High,DONE,Customer,"Jan 15, 2024",Payments,
+496,error on submit,Med,need more info,Customer,2024-02-20,UI,Found in sprint 5
+497,slow performance,low,Cant reproduce,Customer,,Auth,Happens sometimes
+498,login broken,high,Open,,3/15/24,Reports,Found in sprint 5
+499,crash on mobile,Hi,Fixed by John on Monday,PM,yesterday,Database,Low priority
+500,slow performance,high,waiting for deploy,Customer,last week,Dashboard,Low priority
+501,page not loading,V. High,wont fix,QA Team,3/15/24,,Happens sometimes
+502,crash on mobile,Lo,,Customer,"Jan 15, 2024",Dashboard,Low priority
+503,missing button,Not Important,waiting for deploy,,"Jan 15, 2024",,
+504,crash on mobile,Med,closed - duplicate,,2024-02-20,Database,
+505,timeout error,Medium,closed - duplicate,,April 2024,UI,
+506,login broken,medium,,QA Team,,Reports,Found in sprint 5
+507,slow performance,Very High,Still working on it,QA Team,last week,Dashboard,Found in sprint 5
+508,ui looks weird,low,,QA Team,last week,Dashboard,
+509,error on submit,high,Open,Customer,2024-02-20,Reports,Low priority
+510,ui looks weird,low,Fixed by John on Monday,Auto Test,April 2024,Dashboard,Customer complaint
+511,crash on mobile,very high,,QA Team,April 2024,Reports,Critical for release
+512,login broken,med,Still working on it,QA Team,2024-02-20,Dashboard,
+513,page not loading,Hi,waiting for deploy,,,Database,Critical for release
+514,error on submit,,Open,Customer,3/15/24,Reports,Customer complaint
+515,wrong calculation,Medium,need more info,QA Team,3/15/24,API,
+516,wrong calculation,Medium,waiting for deploy,,last week,Payments,Happens sometimes
+517,timeout error,,Fixed,,3/15/24,Reports,Happens sometimes
+518,page not loading,Med,Fixed by John on Monday,,,Auth,
+519,crash on mobile,,Fixed,PM,"Jan 15, 2024",Dashboard,Customer complaint
+520,timeout error,Hi,,,April 2024,Database,Low priority
+521,timeout error,Medium,Fixed,QA Team,April 2024,,
+522,login broken,med,,QA Team,yesterday,UI,Critical for release
+523,error on submit,med,waiting for deploy,,yesterday,Payments,Critical for release
+524,missing button,,Cant reproduce,,April 2024,UI,Happens sometimes
+525,slow performance,High,Still working on it,,3/15/24,Auth,Found in sprint 5
+526,login broken,N/A,Fixed,PM,3/15/24,Dashboard,Customer complaint
+527,slow performance,Very High,waiting for deploy,,3/15/24,Database,
+528,error on submit,very high,Fixed by John on Monday,QA Team,2024-02-20,API,Low priority
+529,slow performance,Medium,wont fix,,,UI,Found in sprint 5
+530,timeout error,V. High,Cant reproduce,QA Team,,Dashboard,Critical for release
+531,wrong calculation,Hi,Open,QA Team,April 2024,Payments,Customer complaint
+532,login broken,Low,,,2024-02-20,,
+533,page not loading,Very High,DONE,,2024-02-20,API,Critical for release
+534,wrong calculation,Very High,Fixed,Customer,3/15/24,Auth,Found in sprint 5
+535,crash on mobile,very high,Fixed,Developer,April 2024,Database,
+536,timeout error,Med,need more info,PM,April 2024,Database,
+537,timeout error,Med,Open,,"Jan 15, 2024",Dashboard,Critical for release
+538,login broken,Low,DONE,Customer,"Jan 15, 2024",Dashboard,Low priority
+539,missing button,,need more info,,,Dashboard,Critical for release
+540,missing button,Hi,closed - duplicate,PM,,Login,Low priority
+541,login broken,N/A,DONE,QA Team,3/15/24,Dashboard,
+542,page not loading,,Cant reproduce,Customer,April 2024,Login,Critical for release
+543,ui looks weird,very high,waiting for deploy,PM,April 2024,,
+544,crash on mobile,Medium,need more info,Auto Test,,Login,Low priority
+545,timeout error,very high,Still working on it,,April 2024,UI,Happens sometimes
+546,wrong calculation,,Still working on it,Developer,"Jan 15, 2024",Database,Found in sprint 5
+547,error on submit,V. High,closed - duplicate,PM,,Auth,Critical for release
+548,slow performance,Low,Fixed by John on Monday,QA Team,"Jan 15, 2024",Database,
+549,login broken,Lo,Fixed by John on Monday,,2024-02-20,Payments,
+550,error on submit,,Still working on it,Customer,2024-02-20,Reports,Critical for release
+551,page not loading,Medium,Still working on it,,2024-02-20,Auth,Customer complaint
+552,login broken,Med,Open,Auto Test,,UI,Customer complaint
+553,missing button,Not Important,Open,Customer,,Login,
+554,timeout error,low,Open,,,Dashboard,Low priority
+555,data not saving,Very High,DONE,Developer,,,
+556,login broken,,need more info,Auto Test,3/15/24,API,Customer complaint
+557,crash on mobile,Medium,Still working on it,Developer,,Login,
+558,timeout error,medium,Fixed by John on Monday,Auto Test,"Jan 15, 2024",Reports,Customer complaint
+559,slow performance,medium,closed - duplicate,,"Jan 15, 2024",Database,Found in sprint 5
+560,error on submit,,DONE,QA Team,"Jan 15, 2024",Payments,Low priority
+561,crash on mobile,,waiting for deploy,,"Jan 15, 2024",API,
+562,page not loading,Not Important,waiting for deploy,PM,last week,Database,Critical for release
+563,wrong calculation,medium,need more info,,yesterday,UI,Happens sometimes
+564,wrong calculation,Lo,waiting for deploy,QA Team,"Jan 15, 2024",Payments,
+565,slow performance,very high,,PM,,API,Low priority
+566,missing button,High,Cant reproduce,Auto Test,,Login,Low priority
+567,ui looks weird,Very High,DONE,,,Login,Found in sprint 5
+568,error on submit,very high,,PM,April 2024,,
+569,timeout error,Lo,DONE,PM,"Jan 15, 2024",Payments,Happens sometimes
+570,slow performance,V. High,waiting for deploy,PM,April 2024,Login,Customer complaint
+571,timeout error,Lo,closed - duplicate,Auto Test,yesterday,Payments,Critical for release
+572,missing button,N/A,Fixed,Developer,,API,
+573,ui looks weird,Not Important,Fixed,QA Team,"Jan 15, 2024",UI,Happens sometimes
+574,data not saving,low,waiting for deploy,Customer,3/15/24,Login,Low priority
+575,data not saving,,waiting for deploy,Auto Test,April 2024,Dashboard,Low priority
+576,error on submit,Medium,,Auto Test,last week,Database,Found in sprint 5
+577,missing button,,,,2024-02-20,UI,Customer complaint
+578,crash on mobile,High,Cant reproduce,Auto Test,"Jan 15, 2024",Login,Customer complaint
+579,ui looks weird,High,Open,Customer,3/15/24,Payments,Customer complaint
+580,ui looks weird,N/A,DONE,,3/15/24,Reports,Found in sprint 5
+581,page not loading,medium,Open,PM,"Jan 15, 2024",Auth,Critical for release
+582,slow performance,very high,waiting for deploy,,"Jan 15, 2024",Database,Happens sometimes
+583,timeout error,Hi,Fixed,,"Jan 15, 2024",,Happens sometimes
+584,login broken,N/A,waiting for deploy,,3/15/24,Database,Happens sometimes
+585,ui looks weird,Low,closed - duplicate,,last week,Login,Found in sprint 5
+586,crash on mobile,high,DONE,QA Team,April 2024,Database,Found in sprint 5
+587,data not saving,Hi,Still working on it,,yesterday,Database,
+588,missing button,med,DONE,,April 2024,API,Low priority
+589,error on submit,High,Still working on it,,last week,,
+590,wrong calculation,N/A,Fixed,Developer,,Reports,Critical for release
+591,slow performance,,,Customer,3/15/24,Database,
+592,data not saving,V. High,waiting for deploy,Customer,last week,Login,Low priority
+593,missing button,,closed - duplicate,PM,yesterday,UI,
+594,error on submit,Med,Open,,3/15/24,UI,Critical for release
+595,missing button,High,,QA Team,yesterday,Auth,
+596,login broken,N/A,closed - duplicate,PM,April 2024,,Low priority
+597,crash on mobile,low,need more info,PM,2024-02-20,UI,
+598,timeout error,N/A,Fixed,Developer,"Jan 15, 2024",Auth,Found in sprint 5
+599,crash on mobile,N/A,wont fix,QA Team,3/15/24,Dashboard,Critical for release
+600,ui looks weird,very high,need more info,Customer,2024-02-20,UI,Happens sometimes
+601,timeout error,N/A,need more info,,last week,Payments,Happens sometimes
+602,login broken,V. High,Open,Auto Test,yesterday,Login,Low priority
+603,error on submit,V. High,need more info,Developer,last week,Reports,Found in sprint 5
+604,ui looks weird,Med,,,yesterday,Reports,Critical for release
+605,page not loading,medium,Open,,last week,Login,Happens sometimes
+606,timeout error,Hi,closed - duplicate,,last week,UI,
+607,wrong calculation,low,wont fix,Developer,April 2024,Dashboard,
+608,timeout error,Lo,Fixed,QA Team,yesterday,Auth,Critical for release
+609,error on submit,Not Important,wont fix,Auto Test,2024-02-20,Auth,Critical for release
+610,data not saving,V. High,wont fix,PM,2024-02-20,Login,
+611,missing button,Hi,Fixed by John on Monday,Auto Test,last week,Login,Happens sometimes
+612,slow performance,,,QA Team,yesterday,UI,Critical for release
+613,slow performance,Lo,wont fix,Developer,3/15/24,Database,
+614,crash on mobile,Med,need more info,QA Team,last week,UI,Happens sometimes
+615,timeout error,medium,Fixed,Customer,,Login,Happens sometimes
+616,missing button,Very High,need more info,,yesterday,Dashboard,Low priority
+617,crash on mobile,Lo,,,,,
+618,error on submit,High,closed - duplicate,,last week,Dashboard,Customer complaint
+619,wrong calculation,N/A,Cant reproduce,Auto Test,April 2024,Database,
+620,error on submit,,Still working on it,,yesterday,UI,Happens sometimes
+621,page not loading,Lo,wont fix,QA Team,3/15/24,Login,Happens sometimes
+622,slow performance,med,,,3/15/24,Reports,Low priority
+623,missing button,high,DONE,,last week,,Low priority
+624,page not loading,med,,Developer,last week,Auth,Critical for release
+625,page not loading,Lo,,,2024-02-20,Database,Critical for release
+626,slow performance,very high,Fixed,Auto Test,3/15/24,Payments,
+627,data not saving,Not Important,Fixed by John on Monday,PM,2024-02-20,Database,Customer complaint
+628,error on submit,Medium,closed - duplicate,,,Database,Critical for release
+629,missing button,N/A,,Customer,,Reports,
+630,login broken,Medium,Open,Customer,3/15/24,Dashboard,Happens sometimes
+631,ui looks weird,Hi,Fixed by John on Monday,,3/15/24,,Customer complaint
+632,page not loading,high,Fixed by John on Monday,PM,yesterday,Payments,Low priority
+633,missing button,Med,,Customer,last week,Auth,Happens sometimes
+634,wrong calculation,high,wont fix,,2024-02-20,API,Low priority
+635,timeout error,V. High,need more info,Developer,,Dashboard,Happens sometimes
+636,ui looks weird,medium,Fixed,Auto Test,,Login,
+637,data not saving,Hi,wont fix,Developer,yesterday,Payments,Critical for release
+638,timeout error,Lo,Open,Customer,last week,Reports,
+639,ui looks weird,,DONE,,,API,Critical for release
+640,page not loading,med,,PM,last week,Database,Low priority
+641,ui looks weird,N/A,need more info,PM,yesterday,API,Critical for release
+642,missing button,Hi,need more info,Developer,yesterday,,Customer complaint
+643,slow performance,Very High,wont fix,Customer,3/15/24,Login,Customer complaint
+644,missing button,,Open,Developer,April 2024,,Low priority
+645,login broken,,,PM,yesterday,UI,Low priority
+646,data not saving,high,Open,,yesterday,Auth,
+647,error on submit,Not Important,Cant reproduce,,"Jan 15, 2024",Login,
+648,wrong calculation,High,Cant reproduce,Customer,,Auth,Happens sometimes
+649,crash on mobile,Hi,DONE,,"Jan 15, 2024",Login,Low priority
+650,login broken,,,PM,"Jan 15, 2024",,
+651,crash on mobile,Hi,waiting for deploy,,,API,
+652,data not saving,Very High,Fixed by John on Monday,,April 2024,Reports,Found in sprint 5
+653,data not saving,Lo,need more info,,"Jan 15, 2024",,Found in sprint 5
+654,timeout error,Very High,Cant reproduce,Customer,April 2024,Dashboard,Critical for release
+655,crash on mobile,N/A,Fixed,Customer,2024-02-20,Dashboard,Found in sprint 5
+656,missing button,med,Open,Customer,last week,Auth,Customer complaint
+657,missing button,Hi,Cant reproduce,QA Team,April 2024,Auth,Happens sometimes
+658,page not loading,Hi,Still working on it,,,,
+659,missing button,Low,wont fix,PM,,Reports,Low priority
+660,timeout error,med,Fixed,,,Auth,Customer complaint
+661,wrong calculation,low,closed - duplicate,,last week,Payments,
+662,ui looks weird,Hi,wont fix,Customer,,Auth,Found in sprint 5
+663,missing button,V. High,wont fix,QA Team,,Login,Customer complaint
+664,wrong calculation,Lo,,,"Jan 15, 2024",Dashboard,Happens sometimes
+665,missing button,Not Important,waiting for deploy,Customer,,Payments,Customer complaint
+666,slow performance,very high,Cant reproduce,Customer,"Jan 15, 2024",Database,Low priority
+667,missing button,very high,Still working on it,,3/15/24,API,Customer complaint
+668,error on submit,Lo,Fixed,QA Team,,Login,Happens sometimes
+669,data not saving,medium,Open,Customer,April 2024,Reports,Customer complaint
+670,error on submit,high,need more info,,,Reports,
+671,ui looks weird,low,,,,UI,Found in sprint 5
+672,crash on mobile,Med,Fixed by John on Monday,PM,April 2024,Dashboard,Critical for release
+673,login broken,Very High,Open,Customer,2024-02-20,UI,Critical for release
+674,timeout error,med,,Customer,April 2024,Database,Found in sprint 5
+675,page not loading,V. High,,Developer,2024-02-20,Reports,Critical for release
+676,page not loading,N/A,wont fix,Developer,last week,Auth,Critical for release
+677,error on submit,Hi,Still working on it,Customer,last week,Database,Found in sprint 5
+678,missing button,med,,PM,2024-02-20,Reports,
+679,login broken,Lo,Open,PM,yesterday,UI,Found in sprint 5
+680,login broken,med,closed - duplicate,Developer,2024-02-20,API,Critical for release
+681,missing button,Very High,wont fix,PM,2024-02-20,Dashboard,
+682,crash on mobile,med,Cant reproduce,Customer,2024-02-20,Payments,
+683,login broken,low,DONE,PM,,Auth,Critical for release
+684,timeout error,High,Cant reproduce,Developer,2024-02-20,Database,
+685,page not loading,Not Important,closed - duplicate,Auto Test,last week,Database,Customer complaint
+686,error on submit,medium,waiting for deploy,,,Payments,Critical for release
+687,wrong calculation,V. High,waiting for deploy,Customer,"Jan 15, 2024",,
+688,data not saving,High,Still working on it,Customer,yesterday,Dashboard,Found in sprint 5
+689,error on submit,Not Important,waiting for deploy,PM,April 2024,Payments,
+690,page not loading,Medium,Cant reproduce,Customer,3/15/24,UI,Found in sprint 5
+691,slow performance,high,Still working on it,,2024-02-20,,
+692,timeout error,High,Open,,last week,Dashboard,Customer complaint
+693,ui looks weird,low,Fixed,Auto Test,April 2024,Payments,
+694,login broken,medium,need more info,QA Team,2024-02-20,UI,Critical for release
+695,wrong calculation,V. High,Fixed by John on Monday,,,UI,Happens sometimes
+696,data not saving,Hi,DONE,Developer,3/15/24,Dashboard,Low priority
+697,ui looks weird,V. High,,Customer,last week,Auth,
+698,error on submit,,Still working on it,Developer,April 2024,,
+699,data not saving,V. High,wont fix,,"Jan 15, 2024",UI,Happens sometimes
+700,slow performance,N/A,Fixed by John on Monday,QA Team,April 2024,UI,Critical for release
+701,login broken,V. High,wont fix,PM,"Jan 15, 2024",Reports,Found in sprint 5
+702,timeout error,very high,closed - duplicate,PM,last week,API,Critical for release
+703,wrong calculation,Low,closed - duplicate,Auto Test,April 2024,Database,Happens sometimes
+704,error on submit,High,Cant reproduce,QA Team,yesterday,Auth,Customer complaint
+705,ui looks weird,Med,Fixed by John on Monday,PM,,API,Critical for release
+706,crash on mobile,Hi,Cant reproduce,Auto Test,last week,Reports,Customer complaint
+707,wrong calculation,Hi,wont fix,,last week,Dashboard,Low priority
+708,slow performance,,wont fix,PM,"Jan 15, 2024",Auth,Critical for release
+709,crash on mobile,Hi,need more info,Auto Test,last week,Dashboard,Low priority
+710,data not saving,,waiting for deploy,Developer,April 2024,Dashboard,
+711,page not loading,Hi,wont fix,PM,"Jan 15, 2024",Database,Critical for release
+712,missing button,Not Important,Open,PM,3/15/24,Reports,
+713,login broken,Lo,Fixed by John on Monday,Auto Test,yesterday,Auth,
+714,error on submit,,,QA Team,,UI,
+715,page not loading,med,Fixed by John on Monday,Developer,yesterday,Dashboard,Found in sprint 5
+716,crash on mobile,medium,waiting for deploy,,2024-02-20,Auth,Happens sometimes
+717,page not loading,V. High,wont fix,Customer,yesterday,Reports,Happens sometimes
+718,ui looks weird,High,,QA Team,April 2024,Login,Found in sprint 5
+719,ui looks weird,High,waiting for deploy,Auto Test,"Jan 15, 2024",Reports,Found in sprint 5
+720,ui looks weird,N/A,wont fix,QA Team,2024-02-20,Reports,Found in sprint 5
+721,slow performance,very high,closed - duplicate,Auto Test,"Jan 15, 2024",Reports,Happens sometimes
+722,slow performance,Hi,wont fix,,yesterday,Dashboard,Happens sometimes
+723,data not saving,N/A,Cant reproduce,PM,April 2024,Dashboard,Low priority
+724,ui looks weird,Medium,DONE,Auto Test,April 2024,Reports,Found in sprint 5
+725,error on submit,high,DONE,Developer,"Jan 15, 2024",Login,
+726,slow performance,Very High,,PM,yesterday,Auth,Found in sprint 5
+727,slow performance,Hi,,QA Team,yesterday,UI,
+728,slow performance,Medium,closed - duplicate,Auto Test,,UI,Found in sprint 5
+729,error on submit,Med,need more info,Customer,,Payments,Critical for release
+730,timeout error,,Still working on it,Customer,April 2024,API,Customer complaint
+731,ui looks weird,medium,waiting for deploy,Customer,April 2024,Database,Critical for release
+732,ui looks weird,very high,waiting for deploy,Auto Test,,Database,Customer complaint
+733,slow performance,very high,,Customer,yesterday,,Low priority
+734,error on submit,very high,waiting for deploy,Auto Test,,,Happens sometimes
+735,crash on mobile,medium,Fixed,PM,April 2024,,Found in sprint 5
+736,ui looks weird,Low,Open,Auto Test,,Database,
+737,login broken,V. High,need more info,,April 2024,Auth,Critical for release
+738,missing button,med,Cant reproduce,Developer,,Auth,Found in sprint 5
+739,wrong calculation,Lo,closed - duplicate,Developer,April 2024,Login,Critical for release
+740,ui looks weird,Very High,Cant reproduce,Developer,2024-02-20,API,
+741,crash on mobile,Med,need more info,QA Team,,Auth,Found in sprint 5
+742,login broken,Medium,Still working on it,PM,"Jan 15, 2024",Database,Low priority
+743,crash on mobile,Med,Still working on it,,April 2024,,Customer complaint
+744,crash on mobile,Not Important,DONE,Developer,2024-02-20,API,Customer complaint
+745,error on submit,medium,need more info,PM,"Jan 15, 2024",API,Low priority
+746,login broken,Not Important,Cant reproduce,Developer,2024-02-20,Reports,
+747,crash on mobile,Lo,Still working on it,QA Team,3/15/24,Dashboard,
+748,slow performance,Hi,waiting for deploy,Auto Test,April 2024,Database,Low priority
+749,slow performance,Not Important,Fixed,Auto Test,,API,Customer complaint
+750,wrong calculation,Low,need more info,Auto Test,last week,Reports,Happens sometimes
+751,slow performance,medium,closed - duplicate,Auto Test,,Dashboard,
+752,slow performance,very high,Still working on it,Auto Test,April 2024,Database,Customer complaint
+753,missing button,Very High,,,yesterday,Payments,
+754,slow performance,Very High,closed - duplicate,Auto Test,April 2024,Dashboard,Happens sometimes
+755,error on submit,N/A,,,2024-02-20,,Found in sprint 5
+756,wrong calculation,high,,,last week,Payments,Critical for release
+757,error on submit,N/A,waiting for deploy,,,Dashboard,Found in sprint 5
+758,login broken,Med,Open,,2024-02-20,Reports,Found in sprint 5
+759,page not loading,Med,,,"Jan 15, 2024",UI,Critical for release
+760,login broken,N/A,DONE,Customer,3/15/24,Payments,Low priority
+761,login broken,V. High,Cant reproduce,Customer,"Jan 15, 2024",,
+762,login broken,Lo,Fixed,QA Team,last week,Reports,
+763,timeout error,Hi,Cant reproduce,Auto Test,last week,Database,
+764,page not loading,High,need more info,QA Team,,Dashboard,Customer complaint
+765,login broken,low,Fixed,Customer,3/15/24,Payments,Customer complaint
+766,missing button,Low,closed - duplicate,Developer,2024-02-20,Auth,Critical for release
+767,login broken,Lo,need more info,Auto Test,April 2024,Auth,
+768,page not loading,low,Fixed,Auto Test,,API,Found in sprint 5
+769,missing button,Lo,closed - duplicate,,,API,
+770,data not saving,low,Cant reproduce,,"Jan 15, 2024",Payments,Customer complaint
+771,crash on mobile,med,Fixed by John on Monday,PM,2024-02-20,Database,Low priority
+772,crash on mobile,med,Still working on it,,3/15/24,API,Found in sprint 5
+773,crash on mobile,med,closed - duplicate,Customer,yesterday,Login,Critical for release
+774,crash on mobile,V. High,Open,Auto Test,,Database,Customer complaint
+775,data not saving,,,,3/15/24,Dashboard,
+776,timeout error,med,closed - duplicate,QA Team,last week,API,Found in sprint 5
+777,wrong calculation,medium,,Customer,last week,Dashboard,Happens sometimes
+778,ui looks weird,Hi,,QA Team,April 2024,Dashboard,
+779,ui looks weird,low,waiting for deploy,,3/15/24,Dashboard,Found in sprint 5
+780,error on submit,High,Fixed by John on Monday,Customer,2024-02-20,Auth,Customer complaint
+781,missing button,Med,Fixed by John on Monday,PM,April 2024,Auth,Customer complaint
+782,timeout error,low,waiting for deploy,QA Team,,Database,
+783,page not loading,Lo,,QA Team,,Auth,
+784,data not saving,Very High,waiting for deploy,PM,,Auth,Low priority
+785,crash on mobile,High,Fixed,QA Team,last week,Reports,Critical for release
+786,error on submit,V. High,closed - duplicate,,3/15/24,Login,Low priority
+787,slow performance,Med,waiting for deploy,QA Team,,Database,Customer complaint
+788,missing button,Lo,DONE,Auto Test,,Payments,Happens sometimes
+789,slow performance,Not Important,need more info,PM,yesterday,Database,
+790,ui looks weird,med,DONE,Customer,yesterday,UI,Low priority
+791,wrong calculation,Not Important,need more info,Customer,April 2024,Login,Found in sprint 5
+792,crash on mobile,high,Cant reproduce,PM,yesterday,UI,Found in sprint 5
+793,data not saving,Lo,Open,,"Jan 15, 2024",Reports,Customer complaint
+794,login broken,very high,Still working on it,PM,,Auth,Found in sprint 5
+795,login broken,Med,Fixed by John on Monday,Auto Test,April 2024,Dashboard,Customer complaint
+796,timeout error,high,Still working on it,,,Dashboard,
+797,missing button,High,Fixed,QA Team,,,Low priority
+798,login broken,Low,,Auto Test,,API,
+799,crash on mobile,high,Cant reproduce,Auto Test,,Dashboard,Low priority
+800,crash on mobile,high,,,"Jan 15, 2024",Login,
+801,page not loading,,closed - duplicate,Developer,April 2024,Auth,Low priority
+802,slow performance,,Cant reproduce,QA Team,"Jan 15, 2024",UI,Critical for release
+803,login broken,Very High,Still working on it,,"Jan 15, 2024",Payments,Critical for release
+804,slow performance,high,Fixed by John on Monday,Developer,2024-02-20,,Found in sprint 5
+805,page not loading,Very High,wont fix,Customer,yesterday,Login,
+806,ui looks weird,,waiting for deploy,Customer,2024-02-20,Dashboard,
+807,ui looks weird,medium,Still working on it,PM,,Database,
+808,data not saving,V. High,,Customer,2024-02-20,Auth,Happens sometimes
+809,login broken,V. High,need more info,,3/15/24,Reports,Critical for release
+810,slow performance,High,Fixed by John on Monday,Developer,last week,Reports,Customer complaint
+811,timeout error,High,,PM,,Payments,
+812,wrong calculation,Medium,need more info,Developer,,Database,Happens sometimes
+813,slow performance,Low,Still working on it,,April 2024,Reports,Happens sometimes
+814,page not loading,N/A,Fixed by John on Monday,PM,last week,Reports,Low priority
+815,slow performance,High,Fixed,Customer,last week,UI,Happens sometimes
+816,wrong calculation,V. High,Fixed by John on Monday,Developer,,API,Customer complaint
+817,crash on mobile,Low,need more info,Customer,"Jan 15, 2024",API,Critical for release
+818,timeout error,med,waiting for deploy,QA Team,"Jan 15, 2024",Payments,Customer complaint
+819,page not loading,Low,Still working on it,Auto Test,2024-02-20,,Customer complaint
+820,missing button,High,,Developer,April 2024,Reports,Critical for release
+821,ui looks weird,Med,need more info,Customer,"Jan 15, 2024",Auth,Happens sometimes
+822,missing button,med,Open,,last week,Auth,Customer complaint
+823,ui looks weird,High,Still working on it,,"Jan 15, 2024",API,Happens sometimes
+824,ui looks weird,,DONE,Auto Test,"Jan 15, 2024",Login,Happens sometimes
+825,page not loading,V. High,Fixed,Auto Test,3/15/24,API,
+826,crash on mobile,Very High,waiting for deploy,QA Team,2024-02-20,Payments,Critical for release
+827,login broken,med,closed - duplicate,Developer,April 2024,Database,
+828,wrong calculation,very high,Open,QA Team,3/15/24,Auth,Found in sprint 5
+829,page not loading,high,Cant reproduce,,"Jan 15, 2024",Auth,
+830,page not loading,very high,,,April 2024,Payments,Customer complaint
+831,ui looks weird,N/A,Open,QA Team,,Payments,Low priority
+832,page not loading,medium,Fixed,PM,2024-02-20,Login,
+833,crash on mobile,high,,Auto Test,April 2024,Dashboard,Found in sprint 5
+834,ui looks weird,Very High,Open,,2024-02-20,UI,Happens sometimes
+835,login broken,high,need more info,Customer,last week,Auth,Found in sprint 5
+836,login broken,Lo,Cant reproduce,Customer,yesterday,Login,
+837,missing button,V. High,wont fix,,,Payments,Found in sprint 5
+838,missing button,Medium,,Customer,yesterday,Database,
+839,slow performance,medium,waiting for deploy,,,API,
+840,data not saving,Hi,Fixed by John on Monday,PM,yesterday,UI,
+841,data not saving,Medium,Open,Customer,April 2024,Login,
+842,data not saving,High,,,yesterday,Payments,Customer complaint
+843,wrong calculation,Hi,wont fix,Auto Test,"Jan 15, 2024",Reports,
+844,error on submit,Lo,Fixed by John on Monday,QA Team,2024-02-20,Login,Critical for release
+845,crash on mobile,very high,,QA Team,,Database,Customer complaint
+846,ui looks weird,low,,Developer,2024-02-20,Database,Low priority
+847,missing button,Not Important,Fixed by John on Monday,PM,April 2024,,
+848,ui looks weird,Hi,Fixed,,3/15/24,,Customer complaint
+849,ui looks weird,very high,DONE,Developer,last week,Payments,
+850,ui looks weird,Very High,Still working on it,Customer,"Jan 15, 2024",API,Critical for release
+851,slow performance,Lo,Fixed,Customer,"Jan 15, 2024",Login,Customer complaint
+852,login broken,Not Important,Cant reproduce,Customer,yesterday,UI,Low priority
+853,slow performance,Very High,waiting for deploy,,last week,UI,Critical for release
+854,crash on mobile,Med,Cant reproduce,Auto Test,"Jan 15, 2024",,Customer complaint
+855,ui looks weird,med,closed - duplicate,PM,3/15/24,Dashboard,Happens sometimes
+856,timeout error,low,Fixed,PM,2024-02-20,Reports,
+857,crash on mobile,high,wont fix,Auto Test,yesterday,Login,Customer complaint
+858,login broken,Hi,,Auto Test,last week,,Low priority
+859,wrong calculation,Hi,Open,,last week,Dashboard,Low priority
+860,slow performance,Low,Fixed by John on Monday,,April 2024,,Low priority
+861,wrong calculation,high,Fixed by John on Monday,Auto Test,April 2024,,Customer complaint
+862,slow performance,very high,Fixed,PM,,Dashboard,Customer complaint
+863,slow performance,Low,Cant reproduce,PM,3/15/24,Auth,Customer complaint
+864,page not loading,Med,Cant reproduce,PM,yesterday,Auth,Happens sometimes
+865,error on submit,Lo,DONE,Customer,2024-02-20,Database,Customer complaint
+866,crash on mobile,Hi,Still working on it,PM,3/15/24,Dashboard,Critical for release
+867,crash on mobile,low,Still working on it,Auto Test,,Auth,Low priority
+868,error on submit,low,waiting for deploy,Customer,2024-02-20,,Critical for release
+869,timeout error,Very High,need more info,Developer,last week,Payments,
+870,ui looks weird,Lo,Fixed,Customer,"Jan 15, 2024",Auth,Low priority
+871,missing button,,Open,,April 2024,Payments,
+872,error on submit,med,Cant reproduce,Auto Test,"Jan 15, 2024",Login,
+873,timeout error,High,Fixed by John on Monday,Developer,2024-02-20,Database,
+874,error on submit,Med,DONE,Customer,"Jan 15, 2024",API,Happens sometimes
+875,timeout error,N/A,closed - duplicate,Auto Test,3/15/24,Payments,Low priority
+876,wrong calculation,med,need more info,Developer,last week,,
+877,error on submit,low,closed - duplicate,,"Jan 15, 2024",Payments,Happens sometimes
+878,crash on mobile,med,DONE,QA Team,2024-02-20,Payments,Happens sometimes
+879,slow performance,high,need more info,,2024-02-20,UI,Critical for release
+880,slow performance,Med,,,3/15/24,UI,Happens sometimes
+881,crash on mobile,Lo,Open,PM,yesterday,UI,Found in sprint 5
+882,wrong calculation,low,Open,Developer,last week,API,Happens sometimes
+883,data not saving,,Fixed by John on Monday,,3/15/24,UI,Low priority
+884,wrong calculation,High,wont fix,Customer,2024-02-20,Login,
+885,crash on mobile,medium,Still working on it,QA Team,last week,UI,Customer complaint
+886,page not loading,V. High,DONE,Developer,"Jan 15, 2024",Dashboard,Found in sprint 5
+887,missing button,Very High,Fixed by John on Monday,QA Team,yesterday,Login,Low priority
+888,page not loading,High,Fixed,,April 2024,Auth,
+889,page not loading,Low,need more info,Auto Test,,Payments,Happens sometimes
+890,timeout error,High,closed - duplicate,QA Team,,Database,Happens sometimes
+891,login broken,Medium,closed - duplicate,Auto Test,2024-02-20,,
+892,slow performance,high,Cant reproduce,Auto Test,2024-02-20,Auth,Customer complaint
+893,wrong calculation,Very High,Fixed,,3/15/24,Database,Customer complaint
+894,error on submit,Not Important,Fixed,,yesterday,Payments,Low priority
+895,login broken,Not Important,Open,,yesterday,API,Customer complaint
+896,wrong calculation,N/A,wont fix,PM,yesterday,Auth,
+897,wrong calculation,V. High,Cant reproduce,Auto Test,,,Customer complaint
+898,data not saving,N/A,waiting for deploy,,"Jan 15, 2024",Auth,Critical for release
+899,login broken,V. High,closed - duplicate,Auto Test,2024-02-20,Dashboard,
+900,page not loading,N/A,,Developer,,Database,Happens sometimes
+901,page not loading,very high,closed - duplicate,Developer,last week,Database,
+902,missing button,low,Cant reproduce,Customer,yesterday,Database,Happens sometimes
+903,page not loading,high,Fixed by John on Monday,PM,,Auth,
+904,crash on mobile,,Fixed by John on Monday,Auto Test,3/15/24,Auth,Low priority
+905,ui looks weird,Not Important,,Developer,3/15/24,Login,
+906,error on submit,Very High,Cant reproduce,Auto Test,yesterday,Dashboard,Found in sprint 5
+907,ui looks weird,medium,Cant reproduce,PM,yesterday,,Found in sprint 5
+908,timeout error,medium,DONE,Customer,April 2024,Auth,Low priority
+909,page not loading,V. High,Open,QA Team,3/15/24,Reports,Happens sometimes
+910,login broken,Lo,Open,QA Team,2024-02-20,,
+911,page not loading,high,Still working on it,Developer,last week,Login,Critical for release
+912,login broken,high,wont fix,QA Team,yesterday,API,
+913,login broken,Lo,Cant reproduce,Customer,"Jan 15, 2024",Reports,Found in sprint 5
+914,timeout error,Not Important,Cant reproduce,Developer,April 2024,Reports,Low priority
+915,crash on mobile,Very High,,QA Team,,API,Happens sometimes
+916,login broken,low,need more info,,,UI,
+917,error on submit,Medium,wont fix,Developer,3/15/24,Login,Found in sprint 5
+918,login broken,high,need more info,Developer,2024-02-20,,Customer complaint
+919,ui looks weird,Med,Open,PM,April 2024,,Customer complaint
+920,login broken,Lo,Still working on it,Customer,3/15/24,,Found in sprint 5
+921,crash on mobile,medium,Cant reproduce,QA Team,,Reports,Customer complaint
+922,ui looks weird,medium,need more info,Customer,,Dashboard,Customer complaint
+923,login broken,med,closed - duplicate,Developer,April 2024,Reports,Low priority
+924,error on submit,N/A,closed - duplicate,PM,"Jan 15, 2024",Login,Critical for release
+925,crash on mobile,Not Important,Still working on it,Developer,yesterday,Auth,Found in sprint 5
+926,error on submit,Lo,waiting for deploy,Developer,2024-02-20,Database,Low priority
+927,error on submit,Medium,need more info,,last week,UI,Happens sometimes
+928,login broken,Not Important,Fixed,,April 2024,Reports,Found in sprint 5
+929,timeout error,,need more info,Developer,,Payments,Critical for release
+930,ui looks weird,Lo,DONE,,,Dashboard,
+931,timeout error,low,,,"Jan 15, 2024",Reports,
+932,page not loading,N/A,Cant reproduce,,,,Found in sprint 5
+933,ui looks weird,very high,Open,,,,
+934,ui looks weird,high,Cant reproduce,PM,2024-02-20,API,Found in sprint 5
+935,crash on mobile,med,DONE,PM,yesterday,Login,Customer complaint
+936,page not loading,med,,,,,
+937,error on submit,Medium,Fixed,PM,yesterday,Login,Customer complaint
+938,page not loading,medium,Open,PM,last week,Database,Happens sometimes
+939,slow performance,High,closed - duplicate,PM,"Jan 15, 2024",Payments,Customer complaint
+940,login broken,,need more info,,last week,,Critical for release
+941,wrong calculation,low,,,,Database,
+942,ui looks weird,med,Fixed by John on Monday,Auto Test,,Payments,Customer complaint
+943,data not saving,very high,Still working on it,Auto Test,,UI,Customer complaint
+944,ui looks weird,Very High,Fixed,Auto Test,last week,Payments,
+945,crash on mobile,Medium,,QA Team,,Login,
+946,timeout error,Lo,Fixed,PM,yesterday,API,Low priority
+947,timeout error,High,Open,Developer,2024-02-20,Login,Happens sometimes
+948,crash on mobile,low,waiting for deploy,QA Team,last week,Dashboard,
+949,ui looks weird,Hi,Cant reproduce,,,Reports,Happens sometimes
+950,crash on mobile,Not Important,,Auto Test,,Reports,Found in sprint 5
+951,page not loading,,Still working on it,QA Team,"Jan 15, 2024",Login,Low priority
+952,crash on mobile,medium,waiting for deploy,,,Reports,
+953,timeout error,Hi,need more info,QA Team,,,Customer complaint
+954,ui looks weird,medium,wont fix,,"Jan 15, 2024",Dashboard,
+955,data not saving,High,need more info,QA Team,3/15/24,Login,
+956,missing button,Lo,Cant reproduce,Auto Test,yesterday,Login,Found in sprint 5
+957,missing button,high,Open,Developer,last week,UI,
+958,data not saving,Hi,Still working on it,PM,April 2024,Dashboard,
+959,error on submit,Very High,closed - duplicate,Customer,yesterday,Payments,Critical for release
+960,wrong calculation,Lo,Fixed,Auto Test,3/15/24,Payments,
+961,data not saving,med,Fixed by John on Monday,Developer,3/15/24,Database,
+962,missing button,med,waiting for deploy,,April 2024,Dashboard,
+963,error on submit,med,DONE,Auto Test,,Auth,Low priority
+964,page not loading,Medium,Cant reproduce,PM,,,Low priority
+965,data not saving,Medium,wont fix,Customer,,Login,Critical for release
+966,missing button,high,Still working on it,PM,April 2024,Dashboard,Low priority
+967,data not saving,low,Fixed by John on Monday,Auto Test,,Login,Critical for release
+968,crash on mobile,Hi,Fixed by John on Monday,QA Team,,Payments,Low priority
+969,data not saving,V. High,Fixed by John on Monday,Customer,"Jan 15, 2024",Reports,Low priority
+970,wrong calculation,N/A,Cant reproduce,,April 2024,Payments,Low priority
+971,login broken,Hi,wont fix,PM,3/15/24,Auth,Found in sprint 5
+972,login broken,med,Fixed by John on Monday,Customer,"Jan 15, 2024",Payments,
+973,crash on mobile,Lo,Cant reproduce,,2024-02-20,UI,Found in sprint 5
+974,login broken,med,,Auto Test,yesterday,Reports,Customer complaint
+975,error on submit,high,,,,API,Happens sometimes
+976,wrong calculation,low,,,last week,UI,
+977,page not loading,Not Important,,Customer,,,Found in sprint 5
+978,wrong calculation,very high,closed - duplicate,PM,last week,Reports,Happens sometimes
+979,page not loading,Not Important,closed - duplicate,QA Team,"Jan 15, 2024",Login,Customer complaint
+980,page not loading,Very High,closed - duplicate,QA Team,3/15/24,Database,Low priority
+981,slow performance,very high,waiting for deploy,Developer,yesterday,UI,Low priority
+982,timeout error,Low,Fixed by John on Monday,Auto Test,2024-02-20,Dashboard,Happens sometimes
+983,error on submit,Med,Still working on it,,3/15/24,Login,Found in sprint 5
+984,slow performance,Medium,,Auto Test,,Reports,Found in sprint 5
+985,missing button,N/A,,PM,"Jan 15, 2024",Payments,
+986,data not saving,low,,Customer,,Payments,Found in sprint 5
+987,login broken,medium,,,,UI,Happens sometimes
+988,wrong calculation,Low,Cant reproduce,Customer,last week,Dashboard,
+989,error on submit,N/A,wont fix,Auto Test,3/15/24,Reports,
+990,wrong calculation,N/A,DONE,,,,Customer complaint
+991,page not loading,Hi,Fixed by John on Monday,,,API,
+992,crash on mobile,High,waiting for deploy,PM,,API,
+993,wrong calculation,medium,DONE,Auto Test,April 2024,Login,Low priority
+994,crash on mobile,V. High,need more info,,,Auth,Low priority
+995,missing button,medium,,Customer,3/15/24,UI,Critical for release
+996,crash on mobile,Hi,wont fix,QA Team,"Jan 15, 2024",Database,Customer complaint
+997,page not loading,medium,Open,QA Team,"Jan 15, 2024",Login,
+998,crash on mobile,Low,Open,PM,,Reports,Critical for release
+999,error on submit,medium,Still working on it,PM,"Jan 15, 2024",Reports,Found in sprint 5
+1000,error on submit,medium,,Customer,yesterday,API,
