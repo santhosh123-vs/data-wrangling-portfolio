@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_quantity,supplier,rating,created_date
+1,Usb Cable,Clothing,,270.0,techcorp,,
+2,Usb Cable,Sports,,189.0,BookWorld,0.0,
+3,Keyboard,Clothing,222.5,50.0,,,2023-06-18
+4,Wireless Mouse,Unknown,,,BookWorld,4.7,2023-02-10
+5,Headphones,Electronics,,,StyleHub,2.3,
+6,Keyboard,Unknown,,,TechCorp,3.1,2023-10-15
+7,Usb Cable,Electronics,,,HomeGoods,,2023-09-06
+8,Tablet,Sports,,,TECHCORP,0.0,2023-02-08
+9,Tablet,Electronics,,976.0,TECHCORP,,
+10,Phone Case,Home & Garden,,896.0,,4.4,2023-06-20
+11,Headphones,Clothing,,,UNKNOWN,,
+12,Monitor,Electronics,,,BookWorld,,2023-04-26
+13,Water Bottle,Sports,,,techcorp,0.0,
+14,Unknown Product,Books,271.66,,TechCorp,4.5,
+15,Headphones,Clothing,,,,,
+16,Tablet,Electronics,,,TechCorp,0.0,
+17,Laptop Stand,Home & Garden,,593.0,HomeGoods,,2023-07-22
+18,Water Bottle,Sports,,,TechCorp,,
+19,Laptop Stand,Home & Garden,,,stylehub,,
+20,Backpack,Home & Garden,,,TECHCORP,0.0,
+21,Unknown Product,Home & Garden,,,StyleHub,0.0,2023-05-24
+22,Wireless Mouse,Electronics,,,stylehub,1.3,
+23,Tablet,Sports,,,techcorp,,2023-11-06
+24,Headphones,Clothing,,,stylehub,0.0,2023-11-01
+25,Keyboard,Electronics,,481.0,,,2023-12-10
+26,Usb Cable,Unknown,249.21,,HomeGoods,,
+27,Usb Cable,Electronics,,,,,2023-11-21
+28,Keyboard,Sports,,,,,2023-12-19
+29,Headphones,Books,,558.0,,4.7,2023-11-23
+30,Wireless Mouse,Electronics,,,,,
+31,Tablet,Books,,,UNKNOWN,0.0,
+32,Keyboard,Books,,76.0,StyleHub,0.0,
+33,Usb Cable,Sports,,,,,
+34,Wireless Mouse,Books,,,,,2023-03-17
+35,Phone Case,Sports,,,techcorp,1.1,2023-11-17
+36,Wireless Mouse,Home & Garden,,847.0,,,
+37,Headphones,Sports,,183.0,UNKNOWN,0.0,
+38,Usb Cable,Unknown,,,StyleHub,,
+39,Unknown Product,Books,290.86,261.0,TECHCORP,,2023-01-17
+40,Water Bottle,Clothing,,,HomeGoods,3.9,
+41,Usb Cable,Electronics,,784.0,,3.8,
+42,Headphones,Sports,416.91,221.0,,4.6,2023-07-04
+43,Phone Case,Sports,,,UNKNOWN,,
+44,Headphones,Sports,,,TechCorp,0.0,
+45,Keyboard,Clothing,,,TechCorp,,2023-11-21
+46,Laptop Stand,Clothing,321.84,409.0,stylehub,2.7,2023-09-01
+47,Headphones,Home & Garden,,,techcorp,0.0,2023-01-03
+48,Phone Case,Unknown,,571.0,,3.7,2023-06-23
+49,Laptop Stand,Sports,171.32,,BookWorld,,2023-06-11
+50,Phone Case,Sports,,,StyleHub,,2023-10-19
+51,Unknown Product,Books,373.23,,stylehub,,2023-12-03
+52,Headphones,Home & Garden,,675.0,stylehub,4.6,2023-10-13
+53,Wireless Mouse,Electronics,,,StyleHub,,
+54,Headphones,Sports,114.6,538.0,,0.0,
+55,Phone Case,Home & Garden,,,,3.7,
+56,Usb Cable,Sports,,,UNKNOWN,,
+57,Usb Cable,Home & Garden,45.9,,techcorp,,2023-04-20
+58,Unknown Product,Sports,,,techcorp,0.0,
+59,Tablet,Electronics,,7.0,stylehub,,2023-07-05
+60,Tablet,Clothing,,,techcorp,,
+61,Tablet,Books,,,TechCorp,,2023-03-04
+62,Keyboard,Home & Garden,,,StyleHub,,
+63,Headphones,Electronics,,92.0,TechCorp,,2023-01-17
+64,Usb-C Cable,Electronics,,,HomeGoods,0.0,
+65,Monitor,Sports,,,StyleHub,0.0,
+66,Backpack,Home & Garden,,847.0,stylehub,,2023-03-09
+67,Wireless Mouse,Books,257.3,,,,2023-08-07
+68,Usb Cable,Electronics,,,UNKNOWN,,
+69,Usb Cable,Books,,12.0,BookWorld,,2023-06-25
+70,Monitor,Electronics,,,TechCorp,0.0,
+71,Headphones,Electronics,,138.0,,3.7,2023-12-18
+72,Usb-C Cable,Home & Garden,,,HomeGoods,,2023-12-23
+73,Headphones,Clothing,,,stylehub,0.0,2023-12-02
+74,Water Bottle,Electronics,,654.0,TECHCORP,,2023-03-04
+75,Keyboard,Home & Garden,,,TechCorp,,
+76,Monitor,Electronics,,,HomeGoods,,2023-06-27
+77,Laptop Stand,Books,,,StyleHub,,
+78,Wireless Mouse,Sports,,663.0,stylehub,,
+79,Monitor,Books,250.22,,UNKNOWN,2.7,2023-10-10
+80,Unknown Product,Sports,64.93,,BookWorld,,
+81,Monitor,Home & Garden,,,,,2023-03-10
+82,Usb-C Cable,Unknown,,,,,
+83,Keyboard,Books,,,,,
+84,Wireless Mouse,Books,,385.0,StyleHub,2.6,2023-12-11
+85,Usb Cable,Sports,,,HomeGoods,,
+86,Usb-C Cable,Books,,,UNKNOWN,,2023-09-18
+87,Keyboard,Electronics,,,TechCorp,,
+88,Water Bottle,Books,,150.0,,0.0,2023-12-08
+89,Unknown Product,Electronics,,,HomeGoods,0.0,
+90,Headphones,Books,,,TECHCORP,2.7,2023-10-25
+91,Usb-C Cable,Home & Garden,,,HomeGoods,,
+92,Tablet,Books,,,HomeGoods,,2023-05-03
+93,Wireless Mouse,Sports,,,TechCorp,,2023-09-24
+94,Laptop Stand,Unknown,,,StyleHub,,
+95,Phone Case,Electronics,,,,,
+96,Tablet,Home & Garden,,753.0,,,
+97,Water Bottle,Clothing,,,BookWorld,,2023-11-16
+98,Usb-C Cable,Clothing,,,techcorp,,
+99,Keyboard,Electronics,,815.0,,,
+100,Backpack,Electronics,,926.0,BookWorld,0.0,
+101,Backpack,Sports,,,UNKNOWN,,
+102,Water Bottle,Clothing,,507.0,stylehub,,2023-02-10
+103,Usb Cable,Electronics,230.4,,,3.6,2023-08-06
+104,Laptop Stand,Home & Garden,,,BookWorld,,2023-07-05
+105,Monitor,Electronics,,,BookWorld,,2023-03-21
+106,Monitor,Electronics,,440.0,TECHCORP,,2023-12-13
+107,Backpack,Sports,,,techcorp,,
+108,Usb Cable,Electronics,254.1,,HomeGoods,4.1,
+109,Wireless Mouse,Books,,,stylehub,,
+110,Keyboard,Electronics,,,techcorp,,2023-03-15
+111,Keyboard,Electronics,,,techcorp,,
+112,Monitor,Home & Garden,377.32,,techcorp,,
+113,Headphones,Sports,,,StyleHub,4.2,
+114,Keyboard,Home & Garden,232.12,,UNKNOWN,,
+115,Keyboard,Books,,,UNKNOWN,,
+116,Usb-C Cable,Electronics,,651.0,stylehub,2.0,2023-02-24
+117,Keyboard,Sports,,,techcorp,,2023-03-05
+118,Keyboard,Electronics,,404.0,UNKNOWN,,
+119,Laptop Stand,Sports,,,,,2023-07-26
+120,Water Bottle,Sports,,,stylehub,1.2,
+121,Usb-C Cable,Sports,,,techcorp,,2023-10-20
+122,Keyboard,Home & Garden,,,,,
+123,Monitor,Home & Garden,,,stylehub,0.0,
+124,Unknown Product,Books,,,StyleHub,,2023-11-28
+125,Usb Cable,Home & Garden,,879.0,stylehub,,
+126,Usb Cable,Books,,698.0,techcorp,2.7,
+127,Tablet,Home & Garden,,725.0,StyleHub,,
+128,Keyboard,Sports,,,BookWorld,,
+129,Headphones,Home & Garden,,,StyleHub,2.2,2023-11-18
+130,Laptop Stand,Clothing,,,TechCorp,0.0,
+131,Backpack,Electronics,,,techcorp,,2023-01-11
+132,Headphones,Books,97.0,,BookWorld,,
+133,Monitor,Clothing,,,UNKNOWN,2.1,2023-01-17
+134,Wireless Mouse,Home & Garden,,,techcorp,,2023-01-27
+135,Unknown Product,Books,,,techcorp,,2023-11-12
+136,Usb-C Cable,Home & Garden,351.84,,stylehub,,
+137,Usb Cable,Electronics,,,,0.0,2023-03-09
+138,Phone Case,Electronics,,,HomeGoods,3.2,2023-06-02
+139,Headphones,Electronics,,,TechCorp,,
+140,Monitor,Home & Garden,,,techcorp,,2023-07-01
+141,Tablet,Sports,427.54,419.0,stylehub,,
+142,Headphones,Clothing,,69.0,UNKNOWN,,
+143,Wireless Mouse,Electronics,285.39,,stylehub,0.0,
+144,Keyboard,Sports,,,BookWorld,4.6,
+145,Headphones,Books,102.2,375.0,TECHCORP,0.0,
+146,Tablet,Books,,,HomeGoods,,2023-06-12
+147,Tablet,Books,,,,4.2,
+148,Headphones,Home & Garden,440.0,,TechCorp,2.8,2023-11-13
+149,Wireless Mouse,Home & Garden,,,UNKNOWN,,
+150,Tablet,Sports,,,BookWorld,,
+151,Laptop Stand,Sports,203.03,402.0,HomeGoods,3.6,2023-01-13
+152,Keyboard,Clothing,,,TechCorp,,2023-02-20
+153,Phone Case,Sports,,,,,
+154,Backpack,Sports,,,TechCorp,0.0,
+155,Usb-C Cable,Electronics,,677.0,TechCorp,,
+156,Laptop Stand,Clothing,,479.0,TechCorp,1.1,
+157,Headphones,Electronics,395.85,184.0,TECHCORP,,2023-03-26
+158,Tablet,Sports,,,TECHCORP,,
+159,Monitor,Home & Garden,,,,,2023-05-01
+160,Keyboard,Home & Garden,,,StyleHub,,2023-07-25
+161,Usb Cable,Sports,,,UNKNOWN,0.0,
+162,Monitor,Home & Garden,,,BookWorld,,2023-12-14
+163,Wireless Mouse,Electronics,,692.0,TechCorp,,
+164,Wireless Mouse,Unknown,,,BookWorld,,2023-05-20
+165,Monitor,Sports,,,TechCorp,0.0,
+166,Laptop Stand,Books,,,,0.0,
+167,Usb Cable,Unknown,,5.0,HomeGoods,,2023-09-08
+168,Usb-C Cable,Clothing,,,TechCorp,,2023-08-26
+169,Usb-C Cable,Clothing,,722.0,,,2023-03-19
+170,Keyboard,Electronics,,,TechCorp,,
+171,Backpack,Sports,,57.0,techcorp,2.4,
+172,Wireless Mouse,Sports,,,TechCorp,4.6,
+173,Usb Cable,Unknown,,,techcorp,,
+174,Keyboard,Books,,,techcorp,,
+175,Unknown Product,Clothing,135.95,924.0,stylehub,,
+176,Laptop Stand,Electronics,,,TechCorp,0.0,
+177,Laptop Stand,Electronics,54.0,129.0,techcorp,,2023-11-13
+178,Wireless Mouse,Electronics,,937.0,BookWorld,,2023-04-14
+179,Tablet,Clothing,,947.0,,,
+180,Backpack,Sports,,,,1.2,2023-02-25
+181,Usb Cable,Home & Garden,260.36,,StyleHub,0.0,
+182,Keyboard,Sports,413.6,,BookWorld,2.0,
+183,Wireless Mouse,Unknown,,,HomeGoods,,
+184,Wireless Mouse,Unknown,,,techcorp,0.0,2023-12-25
+185,Monitor,Electronics,407.72,,StyleHub,,
+186,Laptop Stand,Electronics,,,BookWorld,0.0,
+187,Laptop Stand,Sports,,,techcorp,,2023-09-05
+188,Phone Case,Sports,368.57,,stylehub,0.0,
+189,Keyboard,Books,,877.0,StyleHub,0.0,2023-01-13
+190,Unknown Product,Sports,,974.0,techcorp,,2023-07-26
+191,Usb Cable,Clothing,,285.0,StyleHub,,2023-03-06
+192,Usb-C Cable,Home & Garden,,,TechCorp,,2023-10-25
+193,Wireless Mouse,Clothing,279.43,188.0,,,
+194,Headphones,Home & Garden,,,TechCorp,2.1,2023-01-10
+195,Headphones,Electronics,,917.0,,0.0,2023-08-11
+196,Usb-C Cable,Electronics,207.53,,TechCorp,0.0,
+197,Usb-C Cable,Electronics,,,,,2023-11-03
+198,Phone Case,Sports,,,BookWorld,,2023-08-04
+199,Laptop Stand,Books,136.27,,TechCorp,,
+200,Keyboard,Clothing,314.8,,BookWorld,3.7,2023-01-17
+201,Keyboard,Home & Garden,,,TechCorp,3.8,
+202,Laptop Stand,Home & Garden,,620.0,TechCorp,,2023-05-12
+203,Keyboard,Clothing,,,TechCorp,0.0,
+204,Water Bottle,Clothing,123.66,,TechCorp,,
+205,Wireless Mouse,Books,,,HomeGoods,,2023-03-18
+206,Headphones,Books,,590.0,UNKNOWN,2.3,
+207,Laptop Stand,Home & Garden,,,techcorp,,2023-05-05
+208,Keyboard,Home & Garden,451.69,,HomeGoods,0.0,2023-06-10
+209,Laptop Stand,Clothing,,,,,2023-08-26
+210,Wireless Mouse,Books,,86.0,,3.2,
+211,Keyboard,Books,,,,1.3,
+212,Usb Cable,Electronics,,682.0,UNKNOWN,0.0,2023-10-05
+213,Laptop Stand,Unknown,,,BookWorld,2.9,
+214,Laptop Stand,Sports,,,techcorp,,2023-10-02
+215,Usb Cable,Books,,,,,2023-02-02
+216,Headphones,Unknown,,,TechCorp,,
+217,Water Bottle,Books,,,techcorp,,
+218,Monitor,Unknown,128.92,,BookWorld,,2023-10-14
+219,Usb Cable,Unknown,,,TechCorp,0.0,2023-06-14
+220,Keyboard,Clothing,,923.0,HomeGoods,,2023-10-20
+221,Usb Cable,Books,,,UNKNOWN,,2023-08-03
+222,Headphones,Sports,,,stylehub,,2023-05-08
+223,Laptop Stand,Sports,,,,,2023-09-14
+224,Water Bottle,Electronics,,,HomeGoods,,2023-03-02
+225,Water Bottle,Unknown,153.72,282.0,TechCorp,0.0,
+226,Phone Case,Electronics,,,StyleHub,,
+227,Wireless Mouse,Unknown,,309.0,,,2023-12-09
+228,Keyboard,Electronics,263.82,,StyleHub,0.0,2023-12-21
+229,Wireless Mouse,Home & Garden,,255.0,,,
+230,Backpack,Sports,450.0,,,,
+231,Wireless Mouse,Books,,43.0,,,2023-08-13
+232,Headphones,Clothing,,,TechCorp,0.0,2023-03-07
+233,Wireless Mouse,Books,,,,4.8,
+234,Laptop Stand,Unknown,,,techcorp,3.0,2023-12-21
+235,Water Bottle,Electronics,,704.0,StyleHub,,2023-04-20
+236,Usb Cable,Clothing,309.39,565.0,StyleHub,,
+237,Tablet,Home & Garden,,,TechCorp,2.0,2023-03-18
+238,Wireless Mouse,Clothing,,,BookWorld,,
+239,Laptop Stand,Electronics,,,BookWorld,,
+240,Phone Case,Electronics,,,stylehub,0.0,2023-03-04
+241,Wireless Mouse,Home & Garden,,112.0,techcorp,,2023-03-26
+242,Wireless Mouse,Electronics,,,BookWorld,0.0,2023-08-07
+243,Usb Cable,Home & Garden,,,,3.6,
+244,Wireless Mouse,Sports,,,UNKNOWN,0.0,2023-09-15
+245,Wireless Mouse,Electronics,,,BookWorld,,
+246,Laptop Stand,Clothing,,,,,2023-12-11
+247,Backpack,Unknown,,404.0,,,
+248,Wireless Mouse,Clothing,,,TECHCORP,4.6,
+249,Unknown Product,Home & Garden,,,TechCorp,,2023-02-03
+250,Headphones,Electronics,432.88,,,,2023-07-23
+251,Usb Cable,Books,207.88,30.0,,,
+252,Laptop Stand,Electronics,421.57,,techcorp,0.0,2023-01-03
+253,Water Bottle,Home & Garden,,,techcorp,,
+254,Monitor,Electronics,399.4,,,,
+255,Headphones,Electronics,,,,,
+256,Usb Cable,Home & Garden,,,TechCorp,,2023-10-21
+257,Wireless Mouse,Clothing,,,TECHCORP,,2023-03-15
+258,Headphones,Home & Garden,,357.0,BookWorld,,2023-09-11
+259,Keyboard,Home & Garden,,,stylehub,,
+260,Tablet,Books,,,,,2023-11-20
+261,Usb Cable,Home & Garden,,,,0.0,
+262,Laptop Stand,Electronics,,581.0,,,2023-10-14
+263,Wireless Mouse,Sports,,140.0,HomeGoods,2.5,
+264,Laptop Stand,Clothing,,410.0,BookWorld,0.0,2023-10-19
+265,Headphones,Home & Garden,,395.0,StyleHub,,2023-04-14
+266,Usb Cable,Books,,937.0,,0.0,2023-06-14
+267,Monitor,Electronics,,,TechCorp,,
+268,Wireless Mouse,Clothing,,509.0,techcorp,0.0,2023-11-24
+269,Keyboard,Sports,,,,,2023-04-22
+270,Usb Cable,Electronics,,579.0,,,2023-07-01
+271,Wireless Mouse,Sports,,460.0,stylehub,0.0,
+272,Wireless Mouse,Books,,40.0,BookWorld,0.0,
+273,Phone Case,Home & Garden,,,UNKNOWN,3.7,
+274,Monitor,Sports,,,,,2023-03-17
+275,Phone Case,Books,,291.0,HomeGoods,0.0,2023-10-12
+276,Wireless Mouse,Sports,381.73,,StyleHub,,
+277,Laptop Stand,Books,,605.0,stylehub,,2023-09-26
+278,Wireless Mouse,Home & Garden,,,HomeGoods,2.9,
+279,Water Bottle,Books,,,,0.0,2023-02-07
+280,Wireless Mouse,Sports,,,UNKNOWN,,
+281,Usb Cable,Sports,,,TECHCORP,,
+282,Usb Cable,Books,,,,,2023-02-16
+283,Wireless Mouse,Home & Garden,,,,,
+284,Monitor,Books,,,,,2023-10-27
+285,Tablet,Books,,,StyleHub,,2023-08-03
+286,Headphones,Home & Garden,415.82,808.0,UNKNOWN,,2023-03-19
+287,Headphones,Electronics,,,stylehub,,
+288,Keyboard,Electronics,,311.0,stylehub,0.0,2023-07-04
+289,Wireless Mouse,Electronics,117.99,467.0,techcorp,2.8,2023-02-10
+290,Usb Cable,Home & Garden,,377.0,BookWorld,1.1,2023-02-09
+291,Backpack,Books,457.17,870.0,HomeGoods,0.0,
+292,Phone Case,Books,,,UNKNOWN,1.6,
+293,Backpack,Books,276.73,,stylehub,,2023-10-28
+294,Unknown Product,Home & Garden,,,TechCorp,,2023-09-28
+295,Tablet,Sports,,380.0,stylehub,0.0,
+296,Usb Cable,Home & Garden,,,BookWorld,,
+297,Phone Case,Books,,917.0,TECHCORP,,
+298,Wireless Mouse,Sports,390.3,,stylehub,,
+299,Wireless Mouse,Clothing,,,BookWorld,,2023-10-09
+300,Monitor,Clothing,,,BookWorld,0.0,2023-06-06
+301,Keyboard,Unknown,,,StyleHub,,
+302,Monitor,Electronics,,,,,
+303,Wireless Mouse,Sports,,,stylehub,,
+304,Water Bottle,Sports,,378.0,stylehub,0.0,2023-07-15
+305,Backpack,Sports,,,techcorp,,2023-06-09
+306,Wireless Mouse,Electronics,,,TECHCORP,0.0,2023-08-11
+307,Keyboard,Home & Garden,,191.0,HomeGoods,,2023-02-02
+308,Monitor,Home & Garden,,,,,
+309,Laptop Stand,Clothing,,,StyleHub,,2023-10-14
+310,Laptop Stand,Clothing,,,UNKNOWN,,
+311,Laptop Stand,Home & Garden,,,StyleHub,,
+312,Usb-C Cable,Electronics,,,,,2023-01-24
+313,Headphones,Books,,,BookWorld,0.0,
+314,Backpack,Sports,,,stylehub,,
+315,Phone Case,Clothing,,,UNKNOWN,,
+316,Wireless Mouse,Clothing,191.37,,stylehub,,
+317,Keyboard,Unknown,,274.0,UNKNOWN,,
+318,Laptop Stand,Books,,,TechCorp,,2023-02-07
+319,Tablet,Home & Garden,,121.0,stylehub,,2023-12-08
+320,Laptop Stand,Books,,552.0,,0.0,2023-05-15
+321,Wireless Mouse,Books,,95.0,TechCorp,3.7,
+322,Headphones,Books,,276.0,TechCorp,,
+323,Laptop Stand,Clothing,,,UNKNOWN,,2023-02-16
+324,Keyboard,Unknown,,,stylehub,,
+325,Keyboard,Books,,,TECHCORP,,
+326,Unknown Product,Electronics,,,,,2023-02-20
+327,Laptop Stand,Books,,,TechCorp,,
+328,Tablet,Electronics,,,StyleHub,,
+329,Wireless Mouse,Sports,,,TECHCORP,0.0,2023-12-21
+330,Wireless Mouse,Home & Garden,,7.0,,,2023-07-18
+331,Keyboard,Clothing,,,BookWorld,1.7,
+332,Backpack,Sports,,,UNKNOWN,0.0,2023-12-26
+333,Phone Case,Electronics,,,,,2023-08-18
+334,Laptop Stand,Home & Garden,,745.0,,0.0,
+335,Wireless Mouse,Home & Garden,264.44,319.0,BookWorld,,
+336,Tablet,Unknown,,568.0,stylehub,2.2,
+337,Monitor,Electronics,,,UNKNOWN,,
+338,Keyboard,Home & Garden,,393.0,StyleHub,,
+339,Laptop Stand,Electronics,252.05,,,,
+340,Keyboard,Sports,124.32,,stylehub,,2023-02-01
+341,Backpack,Electronics,,,StyleHub,,2023-06-28
+342,Monitor,Clothing,,,BookWorld,,
+343,Wireless Mouse,Sports,,,BookWorld,,
+344,Phone Case,Electronics,,,BookWorld,,2023-07-04
+345,Wireless Mouse,Home & Garden,,14.0,,,
+346,Keyboard,Unknown,,866.0,techcorp,,2023-09-10
+347,Wireless Mouse,Clothing,,191.0,HomeGoods,,2023-02-18
+348,Laptop Stand,Electronics,,,TechCorp,,
+349,Water Bottle,Unknown,,149.0,StyleHub,,2023-06-27
+350,Usb Cable,Sports,,,UNKNOWN,,
+351,Tablet,Home & Garden,,,stylehub,3.3,
+352,Keyboard,Home & Garden,,,stylehub,,2023-09-11
+353,Monitor,Home & Garden,,,techcorp,0.0,2023-02-13
+354,Wireless Mouse,Clothing,,,,,2023-11-07
+355,Usb Cable,Clothing,,,TECHCORP,0.0,2023-07-10
+356,Unknown Product,Sports,,535.0,techcorp,,2023-05-13
+357,Water Bottle,Books,297.65,763.0,techcorp,,
+358,Keyboard,Unknown,,,stylehub,,
+359,Laptop Stand,Books,,,UNKNOWN,,
+360,Keyboard,Home & Garden,,588.0,techcorp,,2023-05-03
+361,Tablet,Electronics,359.88,847.0,StyleHub,,2023-04-21
+362,Wireless Mouse,Sports,,,StyleHub,1.9,2023-11-12
+363,Backpack,Clothing,226.5,,UNKNOWN,3.4,
+364,Headphones,Clothing,,,stylehub,0.0,
+365,Unknown Product,Sports,,933.0,stylehub,,2023-09-12
+366,Headphones,Home & Garden,,,stylehub,,2023-12-10
+367,Usb Cable,Electronics,,279.0,,,
+368,Wireless Mouse,Home & Garden,,,,,2023-09-10
+369,Keyboard,Books,,543.0,HomeGoods,,
+370,Unknown Product,Sports,,,TechCorp,,2023-10-28
+371,Wireless Mouse,Clothing,,,TechCorp,,2023-02-23
+372,Usb Cable,Clothing,,659.0,StyleHub,0.0,
+373,Usb Cable,Clothing,,,TECHCORP,4.7,
+374,Wireless Mouse,Home & Garden,33.19,,TechCorp,,2023-10-18
+375,Monitor,Sports,,,stylehub,0.0,2023-01-18
+376,Wireless Mouse,Electronics,,,UNKNOWN,,
+377,Headphones,Home & Garden,,963.0,BookWorld,0.0,2023-04-05
+378,Wireless Mouse,Home & Garden,,,,,
+379,Monitor,Books,,,StyleHub,0.0,2023-05-28
+380,Wireless Mouse,Clothing,,,StyleHub,,
+381,Tablet,Books,,,,0.0,
+382,Water Bottle,Books,,,stylehub,,2023-06-15
+383,Usb-C Cable,Unknown,,,UNKNOWN,,
+384,Water Bottle,Sports,,155.0,HomeGoods,,
+385,Monitor,Unknown,,638.0,TECHCORP,,2023-12-01
+386,Backpack,Clothing,,,TechCorp,0.0,2023-02-26
+387,Wireless Mouse,Sports,375.48,,TECHCORP,,2023-11-03
+388,Laptop Stand,Books,,,BookWorld,3.7,
+389,Headphones,Sports,,105.0,HomeGoods,,2023-09-19
+390,Monitor,Unknown,,980.0,StyleHub,,2023-07-13
+391,Monitor,Books,,,,,
+392,Wireless Mouse,Clothing,,,HomeGoods,,2023-12-09
+393,Laptop Stand,Sports,,448.0,StyleHub,1.2,
+394,Water Bottle,Clothing,,,,,2023-10-17
+395,Water Bottle,Books,,826.0,stylehub,,2023-01-20
+396,Usb Cable,Electronics,,,UNKNOWN,,2023-03-26
+397,Laptop Stand,Electronics,,,,0.0,2023-08-13
+398,Headphones,Electronics,467.14,,BookWorld,,
+399,Wireless Mouse,Home & Garden,,,,,2023-11-01
+400,Keyboard,Electronics,79.63,,BookWorld,,
+401,Unknown Product,Books,,,StyleHub,,2023-12-20
+402,Wireless Mouse,Home & Garden,,,,,
+403,Headphones,Clothing,,588.0,,,2023-05-06
+404,Wireless Mouse,Home & Garden,,,stylehub,,
+405,Wireless Mouse,Sports,,,HomeGoods,,2023-12-04
+406,Wireless Mouse,Sports,,862.0,techcorp,,2023-09-24
+407,Phone Case,Home & Garden,,169.0,stylehub,,
+408,Keyboard,Home & Garden,,,,0.0,2023-07-20
+409,Usb-C Cable,Clothing,,,TECHCORP,0.0,2023-02-09
+410,Laptop Stand,Books,,688.0,UNKNOWN,,
+411,Wireless Mouse,Electronics,39.91,,techcorp,,
+412,Headphones,Clothing,,,HomeGoods,0.0,2023-01-10
+413,Wireless Mouse,Clothing,110.83,790.0,TechCorp,2.0,2023-09-18
+414,Backpack,Books,,,stylehub,2.4,2023-03-06
+415,Phone Case,Home & Garden,,,stylehub,0.0,2023-10-27
+416,Keyboard,Electronics,,938.0,,4.9,
+417,Wireless Mouse,Clothing,,454.0,StyleHub,0.0,2023-02-03
+418,Monitor,Clothing,,,,3.4,
+419,Monitor,Clothing,,,UNKNOWN,0.0,
+420,Headphones,Books,,87.0,TechCorp,0.0,
+421,Tablet,Electronics,,,stylehub,2.8,
+422,Tablet,Electronics,,,UNKNOWN,,2023-12-06
+423,Wireless Mouse,Home & Garden,,,techcorp,0.0,
+424,Wireless Mouse,Books,,725.0,BookWorld,,
+425,Monitor,Sports,,354.0,TechCorp,,
+426,Tablet,Books,,61.0,BookWorld,,
+427,Laptop Stand,Home & Garden,,853.0,UNKNOWN,3.8,2023-10-04
+428,Tablet,Electronics,,155.0,TECHCORP,0.0,2023-08-19
+429,Usb Cable,Home & Garden,,,BookWorld,,2023-05-05
+430,Phone Case,Sports,172.33,,techcorp,0.0,2023-10-22
+431,Headphones,Clothing,419.77,,HomeGoods,0.0,
+432,Usb-C Cable,Electronics,,787.0,stylehub,,
+433,Backpack,Home & Garden,251.68,41.0,,,2023-04-01
+434,Usb-C Cable,Sports,419.32,,TECHCORP,2.8,2023-11-17
+435,Usb Cable,Electronics,,,HomeGoods,,
+436,Unknown Product,Books,429.07,500.0,StyleHub,,2023-01-10
+437,Keyboard,Unknown,,,StyleHub,,2023-12-28
+438,Usb Cable,Unknown,,,TechCorp,,2023-07-16
+439,Wireless Mouse,Clothing,,,StyleHub,,2023-11-14
+440,Wireless Mouse,Clothing,,,,,2023-11-27
+441,Usb Cable,Clothing,,,StyleHub,3.2,2023-08-07
+442,Phone Case,Clothing,,,UNKNOWN,,
+443,Usb Cable,Home & Garden,297.12,,TECHCORP,,2023-03-11
+444,Unknown Product,Home & Garden,,,techcorp,,2023-05-08
+445,Keyboard,Electronics,,,TechCorp,,
+446,Keyboard,Home & Garden,10.59,,BookWorld,2.1,
+447,Wireless Mouse,Home & Garden,,937.0,,2.4,2023-10-27
+448,Headphones,Clothing,,,stylehub,,2023-02-20
+449,Laptop Stand,Sports,,,StyleHub,0.0,2023-08-04
+450,Tablet,Clothing,,,StyleHub,,
+451,Headphones,Sports,,405.0,StyleHub,,2023-02-11
+452,Keyboard,Sports,,,stylehub,1.4,
+453,Wireless Mouse,Books,,,,,2023-02-28
+454,Headphones,Clothing,145.75,,UNKNOWN,0.0,2023-09-10
+455,Headphones,Books,,572.0,,,2023-01-21
+456,Wireless Mouse,Clothing,,,BookWorld,,
+457,Phone Case,Electronics,,,StyleHub,0.0,
+458,Usb Cable,Electronics,148.49,,,,
+459,Headphones,Sports,,,TECHCORP,2.0,2023-06-13
+460,Headphones,Unknown,,,StyleHub,,
+461,Wireless Mouse,Sports,,301.0,TECHCORP,,
+462,Unknown Product,Books,,95.0,UNKNOWN,,2023-12-22
+463,Monitor,Electronics,,,UNKNOWN,,
+464,Keyboard,Electronics,,,TECHCORP,,
+465,Tablet,Books,,,BookWorld,,2023-11-04
+466,Monitor,Books,,,StyleHub,,2023-06-27
+467,Monitor,Books,85.34,611.0,HomeGoods,1.8,
+468,Headphones,Clothing,,,BookWorld,,2023-04-07
+469,Wireless Mouse,Books,164.64,168.0,UNKNOWN,,2023-05-20
+470,Usb Cable,Home & Garden,,,BookWorld,,
+471,Phone Case,Clothing,,,UNKNOWN,,2023-10-11
+472,Keyboard,Electronics,,,StyleHub,,
+473,Wireless Mouse,Clothing,397.42,,BookWorld,1.4,2023-09-28
+474,Laptop Stand,Books,23.83,,,,2023-07-01
+475,Laptop Stand,Clothing,,,StyleHub,,
+476,Keyboard,Sports,,,,0.0,2023-12-04
+477,Wireless Mouse,Books,,998.0,StyleHub,,2023-04-07
+478,Unknown Product,Home & Garden,,,,,2023-01-07
+479,Usb-C Cable,Books,,,TechCorp,,
+480,Backpack,Unknown,,,techcorp,,
+481,Backpack,Electronics,,,,,2023-11-23
+482,Unknown Product,Books,,,TECHCORP,,2023-12-06
+483,Usb Cable,Sports,,,HomeGoods,0.0,2023-07-06
+484,Tablet,Home & Garden,,,,,
+485,Laptop Stand,Electronics,,,TECHCORP,0.0,2023-03-10
+486,Usb Cable,Clothing,,,HomeGoods,,
+487,Backpack,Books,,335.0,techcorp,3.6,
+488,Usb-C Cable,Home & Garden,448.51,,BookWorld,,
+489,Keyboard,Sports,,,TECHCORP,,2023-07-23
+490,Usb Cable,Books,297.45,163.0,HomeGoods,,2023-01-16
+491,Unknown Product,Sports,390.82,,StyleHub,,
+492,Backpack,Books,71.09,868.0,StyleHub,,
+493,Wireless Mouse,Unknown,278.55,,techcorp,,2023-02-04
+494,Tablet,Home & Garden,244.86,,techcorp,,
+495,Laptop Stand,Electronics,,44.0,TECHCORP,0.0,
+496,Keyboard,Sports,,,TechCorp,,
+497,Wireless Mouse,Books,353.83,888.0,TechCorp,0.0,2023-08-12
+498,Unknown Product,Home & Garden,,,techcorp,0.0,2023-11-01
+499,Headphones,Home & Garden,111.93,283.0,,0.0,
+500,Headphones,Sports,,,UNKNOWN,,2023-03-25

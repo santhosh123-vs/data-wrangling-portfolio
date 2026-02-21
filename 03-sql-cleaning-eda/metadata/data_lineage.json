@@ -1,0 +1,128 @@
+{
+  "project": "SQL Cleaning and EDA",
+  "author": "Kethavath Saidamma",
+  "date": "2026-02-21",
+  "database": "raw_data/messy_ecommerce.db",
+  "tables_cleaned": {
+    "customers": 3000,
+    "orders": 8000,
+    "products": 500,
+    "support_tickets": 2000
+  },
+  "cleaning_steps": [
+    {
+      "step": 1,
+      "description": "Removed duplicate customers",
+      "details": "Removed 150 duplicates",
+      "reason": "Duplicate customer_ids cause incorrect join results"
+    },
+    {
+      "step": 2,
+      "description": "Standardized customer names",
+      "details": "Converted to Title Case, replaced empty values",
+      "reason": "Inconsistent casing prevents accurate customer matching"
+    },
+    {
+      "step": 3,
+      "description": "Cleaned email addresses",
+      "details": "Lowercased, removed invalid formats",
+      "reason": "Invalid emails like jane@@test.com and john@email cannot be used for communication"
+    },
+    {
+      "step": 4,
+      "description": "Standardized country names",
+      "details": "Mapped 5 variations to USA",
+      "reason": "Multiple country name formats prevent geographic analysis"
+    },
+    {
+      "step": 5,
+      "description": "Standardized city names",
+      "details": "Mapped abbreviations and case variations",
+      "reason": "NYC, New York, and new york should all be the same city"
+    },
+    {
+      "step": 6,
+      "description": "Standardized state names to abbreviations",
+      "details": "California -> CA, New York -> NY etc.",
+      "reason": "Mix of full names and abbreviations prevents geographic grouping"
+    },
+    {
+      "step": 7,
+      "description": "Standardized membership levels",
+      "details": "Unified casing variations",
+      "reason": "GOLD, Gold, and gold should be the same membership tier"
+    },
+    {
+      "step": 8,
+      "description": "Cleaned invalid ages",
+      "details": "Removed ages below 13 and above 120",
+      "reason": "Ages like -1, 0, 150, 999 are clearly data entry errors"
+    },
+    {
+      "step": 9,
+      "description": "Standardized order statuses",
+      "details": "17 variations mapped to 6 standard statuses",
+      "reason": "Cancelled vs CANCELLED vs Canceled should be the same"
+    },
+    {
+      "step": 10,
+      "description": "Standardized payment methods",
+      "details": "Unified naming conventions",
+      "reason": "CC, Credit Card, and credit card are the same method"
+    },
+    {
+      "step": 11,
+      "description": "Cleaned order amounts",
+      "details": "Removed negative/zero values, recalculated totals",
+      "reason": "Negative quantities and prices are data entry errors"
+    },
+    {
+      "step": 12,
+      "description": "Standardized order dates",
+      "details": "Multiple formats unified to datetime",
+      "reason": "Consistent dates needed for time-series sales analysis"
+    },
+    {
+      "step": 13,
+      "description": "Removed duplicate products",
+      "details": "Removed 40 duplicates",
+      "reason": "Duplicate product_ids cause incorrect inventory counts"
+    },
+    {
+      "step": 14,
+      "description": "Standardized product names",
+      "details": "Converted to Title Case",
+      "reason": "wireless mouse and WIRELESS MOUSE should be the same product"
+    },
+    {
+      "step": 15,
+      "description": "Standardized product categories",
+      "details": "Unified casing and naming",
+      "reason": "ELECTRONICS and electronics should be the same category"
+    },
+    {
+      "step": 16,
+      "description": "Cleaned invalid product values",
+      "details": "Removed negative prices, invalid ratings, negative stock",
+      "reason": "Rating of 10 or -1 is impossible on a 1-5 scale"
+    },
+    {
+      "step": 17,
+      "description": "Standardized issue types",
+      "details": "16 variations mapped to 7 categories",
+      "reason": "delivery issue and DELIVERY should be the same category"
+    },
+    {
+      "step": 18,
+      "description": "Standardized ticket priority and status",
+      "details": "Unified naming conventions",
+      "reason": "Consistent values needed for support performance analysis"
+    },
+    {
+      "step": 19,
+      "description": "Cleaned agent names",
+      "details": "Standardized to Title Case, replaced empty values",
+      "reason": "Consistent agent names needed for workload analysis"
+    }
+  ]
+}
